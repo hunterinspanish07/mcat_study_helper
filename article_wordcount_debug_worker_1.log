@@ -1,0 +1,8 @@
+=== Article Word Count Debug Log - Worker 1 ===
+Started: 2025-09-04 17:41:22.337279
+Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
+
+[17:41:29] Intramolecular and intermolecular forces | https://www.khanacademy.org/test-prep/mcat/chemical-processes/covalent-bonds/a/intramolecular-and-intermolecular-forces | body | 575 | 3.2 minutes
+[17:42:52] Principles of chromatography | https://www.khanacademy.org/test-prep/mcat/chemical-processes/separations-purifications/a/principles-of-chromatography | body | 578 | 3.2 minutes
+[17:42:57] A closer look at types of chromatography | https://www.khanacademy.org/test-prep/mcat/chemical-processes/separations-purifications/a/chromatography-for-protein-separation | body | 578 | 3.2 minutes
+[17:47:24] The structure and function of globular proteins | https://www.khanacademy.org/test-prep/mcat/chemical-processes/amino-acids-peptides-proteins-5d/a/the-structure-and-function-of-globular-proteins | body | 578 | 3.2 minutes

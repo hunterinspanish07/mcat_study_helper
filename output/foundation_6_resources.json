@@ -1,0 +1,708 @@
+[
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Visual cues",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/perceptual-organization",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Sensory adaptation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/sensory-adapting",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Weber's law and thresholds",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/webers-law-and-thresholds",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Absolute threshold of sensation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/absolute-threshold-of-sensation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Somatosensation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/somatosensation-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "The vestibular system, balance, and dizziness",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/the-vestibular-system-balance-and-dizziness",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Signal detection theory - part 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/signal-detection-theory-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Signal detection theory - part 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/signal-detection-theory-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Bottom-up vs. top-down processing",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/bottom-up-versus-top-down-processing",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "4.5 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Gestalt principles",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/gestalt-principles",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Overview of Sensation and Meissner's Corpuscle",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/overview-of-sensation-and-meissners-corpuscles",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Pacinian's Corpuscle and Merkel's Disk",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/pacinians-corpuscle-and-merkels-disk",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sensory perception",
+    "resource_name": "Ruffini's Ending and Hair Follicle Receptor",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sensory-perception/v/ruffinis-ending-and-hair-follicle-receptor-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "The structure of the eye",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/vision-structure-of-the-eye",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "Visual sensory information",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/vision-summary",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "The phototransduction cascade",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/phototransduction-cascade",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "Photoreceptors (rods vs cones)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/photoreceptors-rods-cones",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "Photoreceptor distribution in the fovea",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/photoreceptor-distribution-fovea",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "Visual field processing",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/visual-field-processing",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sight (vision)",
+    "resource_name": "Feature detection and parallel processing",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sight/v/feature-detection-and-parallel-processing",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sound (Audition)",
+    "resource_name": "Auditory structure - part 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition/v/auditory-structure-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sound (Audition)",
+    "resource_name": "Auditory structure - part 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition/v/auditory-structure-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sound (Audition)",
+    "resource_name": "Auditory processing",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition/v/auditory-processing-video",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sound (Audition)",
+    "resource_name": "Cochlear implants",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition/v/cochlear-implant",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Somatosensation",
+    "resource_name": "Somatosensation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation/v/somatosensation-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Somatosensation",
+    "resource_name": "Sensory adaptation and amplification",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation/v/sensory-adaptation-and-amplification",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Somatosensation",
+    "resource_name": "Somatosensory homunculus",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation/v/somatosensory-homunculus",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Somatosensation",
+    "resource_name": "Proprioception and kinesthesia",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation/v/proprioception-kinesthesia",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Somatosensation",
+    "resource_name": "Pain and temperature",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/somatosensation/v/pain-and-temperature-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Taste (gustation) and smell (olfaction)",
+    "resource_name": "Pheromones",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/taste-gustation-and-smell-olfaction/v/pheromones",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Taste (gustation) and smell (olfaction)",
+    "resource_name": "Olfaction - structure and function",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/taste-gustation-and-smell-olfaction/v/olfaction-structure-and-function",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Taste (gustation) and smell (olfaction)",
+    "resource_name": "Gustation - structure and function",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/taste-gustation-and-smell-olfaction/v/gustation-structure-and-function",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "States of consciousness",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/sleep-and-consciousness",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Sleep stages and circadian rhythms",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/sleep-stages-and-circadian-rhythms",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Dreaming",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/dreaming",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Dream theories Freud, activation synthesis hypothesis",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/dream-theories-freud-activation-synthnesis-hypothesis",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Sleep disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/sleep-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Breathing related sleep disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/sleep-wake-disorders-breathing-related-sleep-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Sleep and consciousness",
+    "resource_name": "Hypnosis and meditation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sleep-and-consciousness/v/hypnosis-and-meditation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Overview of psychoactive drugs",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/overview-of-psychoactive-drugs",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Psychoactive drugs: Depressants and opiates",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/psychoactive-drugs-depressants-and-opiates",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Psychoactive drugs: Stimulants",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/psychoactive-drugs-stimulants",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Psychoactive drugs: Hallucinogens",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/psychoactive-drugs-hallucinogens",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Drug dependence and homeostasis",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/drug-dependence-and-homeostasis",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Routes of drug entry",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/routes-of-drug-entry",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Reward pathway in the brain",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/reward-pathway-in-the-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Tolerance and withdrawal",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/tolerance-and-withdrawal",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Substance use disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/substance-use-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Drug dependence",
+    "resource_name": "Treatments and triggers for drug dependence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/drug-dependence/v/treatments-and-triggers-for-drug-dependence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Attention",
+    "resource_name": "Divided attention, selective attention, inattentional blindness, & change blindness",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language/v/divided-selective-attention-inattentional-change-blindness",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Attention",
+    "resource_name": "Theories of selective attention",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language/v/selective-attention",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Attention",
+    "resource_name": "The spotlight model of attention and our ability to multitask",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/attention-language/v/the-spotlight-model-of-attention-and-our-ability-to-multitask",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Information processing model: Sensory, working, and long term memory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/information-processing-model-sensory-working-and-long-term-memory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Encoding strategies",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/encoding-strategies",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Retrieval cues",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/retrieval-cues",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Retrieval: Free recall, cued recall, and recognition",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/retrieval-free-recall-cued-recall-and-recognition",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Memory reconstruction, source monitoring, and emotional memories",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/memory-reconstruction-source-monitoring-and-emotional-memories",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Long term potentiation and synaptic plasticity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/long-term-potentiation-and-synaptic-plasticity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Decay and interference",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/decay-and-interference",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Aging and cognitive abilities",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/aging-and-cognitive-abilities",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Alzheimer's disease and Korsakoff's syndrome",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/alzheimer-s-disease-and-korsakoff-s-syndrome",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Memory",
+    "resource_name": "Semantic networks and spreading activation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/semantic-networks-and-spreading-activation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Piaget's stages of cognitive development",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/piagets-stages-of-cognitive-development",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Schemas, assimilation, and accommodation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/schemas-assimilation-and-accommodation-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Problem solving",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/problem-solving",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Decision making",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/decision-making",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Semantic networks and spreading activation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/semantic-networks-and-spreading-activation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Intelligence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/intelligence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Theories of intelligence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/theories-of-intelligence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Aging and cognitive abilities",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/aging-and-cognitive",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Cognitive dissonance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/cognitive-dissonance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Cognition",
+    "resource_name": "Information processing model: Sensory, working, and long term memory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/cognition/v/information-processing-model-sensory-working-and-long-term-memory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Language",
+    "resource_name": "Theories of the early stages of language acquisition",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/language/a/theories-of-the-early-stages-of-language-acquisition",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Language",
+    "resource_name": "Language and the brain: Aphasia and split-brain patients",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/language/v/language-and-the-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Language",
+    "resource_name": "Theories of language and cognition",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/language/v/language-and-cognition",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Language",
+    "resource_name": "Theories of language development: Nativist, learning, interactionist",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/language/v/theories-of-language-development",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Emotion",
+    "resource_name": "Emotions: limbic system",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/v/emotions-limbic-system",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Emotion",
+    "resource_name": "Emotions: cerebral hemispheres and prefrontal cortex",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/v/emotions-cerebral-hemispheres-and-prefrontal-cortex",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Emotion",
+    "resource_name": "Autonomic nervous system (ANS) and physiologic markers of emotion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/v/autonomic-nervous-system-ans-and-physiologic-markers-of-emotion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Emotion",
+    "resource_name": "Three components of emotion and the universal emotions",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/v/three-components-of-emotion-and-the-universal-emotions",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Emotion",
+    "resource_name": "Theories of Emotion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/emotion/v/theories-of-emotion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "What is stress?",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/what-is-stress",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "Stressors",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/stressors",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "Responding to stress",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/responding-to-stress",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "Physical effects of stress",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/physical-effects-of-stress",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "Behavioral effects of stress",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/behavioral-effects-of-stress",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  },
+  {
+    "subtopic_name": "Stress",
+    "resource_name": "Stress management",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/stress-management",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 6: Processing the environment",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/processing-the-environment"
+  }
+]

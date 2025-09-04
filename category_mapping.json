@@ -1,0 +1,32 @@
+{
+  "General Chemistry": [
+    "Foundation 1: Biomolecules",
+    "Foundation 5: Chemical processes"
+  ],
+  "Biology": [
+    "Foundation 2: Cells",
+    "Foundation 3: Organ systems",
+    "Foundation 6: Processing the environment",
+    "Foundation 7: Behavior"
+  ],
+  "Organic Chemistry": [
+    "Foundation 1: Biomolecules",
+    "Foundation 5: Chemical processes"
+  ],
+  "Biochemistry": [
+    "Foundation 1: Biomolecules",
+    "Foundation 2: Cells",
+    "Foundation 3: Organ systems",
+    "Foundation 5: Chemical processes"
+  ],
+  "Behavioral Sciences": [
+    "Foundation 6: Processing the environment",
+    "Foundation 7: Behavior",
+    "Foundation 8: Individuals and society",
+    "Foundation 9: Society and culture",
+    "Foundation 10: Social inequality"
+  ],
+  "Physics and Math": [
+    "Foundation 4: Physical processes"
+  ]
+}

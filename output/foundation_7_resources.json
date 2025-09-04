@@ -1,0 +1,916 @@
+[
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Structure of the nervous system",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/structure-of-the-nervous-system",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Functions of the nervous system",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/functions-of-the-nervous-system",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Motor unit",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/motor-unit",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Peripheral somatosensation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/peripheral-somatosensation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Muscle stretch reflex",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/muscle-stretch-reflex",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Autonomic nervous system",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/autonomic-nervous-system",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Gray and white matter",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/gray-and-white-matter",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Upper motor neurons",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/upper-motor-neurons",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Somatosensory tracts",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/somatosensory-tracts",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Overview of the functions of the cerebral cortex",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/overview-of-the-functions-of-the-cerebral-cortex",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Hemispheric differences and hemispheric dominance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/hemispheric-differences-and-hemispheric-dominance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "The old brain",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/the-old-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Cerebellum",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/cerebellum",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Brainstem",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/brainstem",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Subcortical cerebrum",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/subcortical-cerebrum",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Cerebral cortex",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/cerebral-cortex",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Neurotransmitter anatomy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/neurotransmitter-anatomy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Early methods of studying the brain",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/early-methods-of-studying-the-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Lesion studies and experimental ablation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/lesion-studies-and-experimental-ablation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Modern ways of studying the brain",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/modern-ways-of-studying-the-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Endocrine system and influence on behavior - Part 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/endocrine-system-and-influence-on-behavior-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Biological basis of behavior: Nervous system",
+    "resource_name": "Endocrine system and influence on behavior - Part 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/biological-basis-of-behavior-ner/v/endocrine-system-and-influence-on-behavior-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Egg, sperm, and fertilization",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/egg-sperm-and-fertilization",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Early embryogenesis - Cleavage, blastulation, gastrulation, and neurulation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/early-embryogenesis-cleavage-blastulation-gastrulation-and-neurulation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Implantation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/implantation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Germ layer derivatives",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/germ-layer-derivatives",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Gestation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/gestation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Major motor milestones",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/major-motor-milestones",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Motor development",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/motor-development",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Neonatal reflexes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/neonatal-reflexes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Physical development in adolescence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/physical-development-in-adolescence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Human development",
+    "resource_name": "Brain changes during adolescence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/human-development/v/brain-changes-during-adolescence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Genes, environment, and behavior",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/a/genes-environment-and-behavior",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Temperament, heredity, and genes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/temperment-heredity-genes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Twin studies and adoption studies",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/twin-studies-and-adoption-studies",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Heritability",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/heritability",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Regulatory genes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/regulatory-genes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Gene environment interaction",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/gene-environment-interaction",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Behavior and genetics",
+    "resource_name": "Adaptive value of behavioral traits",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/behavior-and-genetics/v/adaptive-value-of-behavioral-traits",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Motivation article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/a/motivation-article-2",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Physiological concept of positive and negative feedback",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/physiological-concept-of-positive-and-negative-feedback",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Instincts, Arousal, Needs, Drives: Drive-Reduction and Cognitive Theories",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/instincts-arousal-needs-drives-drive-reduction-and-cognitive-theories",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Maslow's hierarchy of needs",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/maslows-hierarchy-of-needs",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Incentive theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/incentive-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Biological and Sociocultural Factors Food, Sex, and Drugs",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/biological-and-sociocultural-factors-food-sex-and-drugs",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Components of attitudes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/components-of-attitude",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Attitude influences behavior",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/attitude-influences-behavior",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Behavior influences attitude",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/behavior-influences-attitude",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Cognitive dissonance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/cognitive-dissonance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Motivation and attitudes",
+    "resource_name": "Situational approach",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/physiological-and-sociocultural-concepts-of-motivation-and-attitudes/v/situational-approach",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Situational approach",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/situational-approach",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Psychoanalytic theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/psychoanalytic-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Maslow's hierarchy of needs",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/maslow-hierarchy-of-needs",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Humanistic theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/humanistic-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Biological theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/biological-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Behavioral theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/behavioral-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Trait theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/trait-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Observational learning: Bobo doll experiment and social cognitive theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/observational-learning",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Defense mechanisms",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/defense-mechanisms",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of personality",
+    "resource_name": "Freud - Death drive, reality principle, and pleasure principle",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-personality/v/freud-death-drive-reality-principle-and-pleasure-principle",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "What is obsessive compulsive disorder (OCD)?",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/a/obsessive-compulsive-disorder-ocd-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "What is post traumatic stress disorder?",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/a/post-traumatic-stress-disorder-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Introduction to mental disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/introduction-to-mental-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Categories of mental disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/categories-of-mental-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Schizophrenia",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/schizophrenia",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Biological basis of schizophrenia",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/biological-basis-of-schizophrenia",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Biological basis of depression",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/biological-basis-of-depression",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Anxiety disorders and obsessive compulsive disorder",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/anxiety-disorders-and-obsessive-compulsive-disorder",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Somatic symptom disorder and other disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/somatic-symptom-disorder-and-other-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Personality disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/personality-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Sleep disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/sleep-disorders",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Sleep wake disorders breathing related sleep disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/sleep-wake-disorders-breathing-related-sleep-disorders-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Reward pathway in the brain",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/reward-pathway-in-the-brain",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Drug dependence and homeostasis",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/drug-dependence-and-homeostasis",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Tolerance and withdrawal",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/tolerance-and-withdrawal",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Substance use disorders",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/substance-use-disorders-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Biological basis of parkinson's disease",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/biological-basis-of-parkinsons-disease",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Depression and major depressive disorder",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/depression-and-major-depressive-disorder",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Psychological disorders",
+    "resource_name": "Depression and bipolar disorder",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/psychological-disorders/v/depression-and-bipolar-disorder",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Conformity and groupthink",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/conformity-and-groupthink",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Conformity and obedience",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/conformity-and-obedience",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Asch conformity studies (Asch line studies)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/asch-conformity-studies-asch-line-studies",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Events that inspired the Milgram studies on obedience",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/events-that-inspired-the-milgram-studies-on-obedience",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Milgram experiment on obedience",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/milgram-experiment-on-obedience",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "What can we learn from the Milgram experiment",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/what-can-we-learn-from-the-milgram-experiment",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Zimbardo prison study The Stanford prison experiment",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/zimbardo-prison-study-the-stanford-prison-experiment",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "A closer look at the Stanford prison experiment",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/a-closer-look-at-the-stanford-prison-experiment",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Factors that influence obedience and conformity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/factors-that-influence-obedience-and-conformity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Bystander effect",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/bystander-effect",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Social facilitation and social loafing",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/social-facilitation-and-social-loafing",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Social psychology",
+    "resource_name": "Agents of socialization",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/agents-of-socialization",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Normative and non-normative behavior",
+    "resource_name": "What is normal? Exploring folkways, mores, and taboos",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/normative-and-non-normative-behavior/v/what-is-normal",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Normative and non-normative behavior",
+    "resource_name": "Perspectives on deviance: Differential association, labeling theory, and strain theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/normative-and-non-normative-behavior/v/perspectives-on-deviance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Normative and non-normative behavior",
+    "resource_name": "Aspects of Collective Behavior: Fads, Mass Hysteria, and Riots",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/normative-and-non-normative-behavior/v/aspects-of-collective-behavior",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Classical and operant conditioning article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/a/classical-and-operant-conditioning-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Classical conditioning: Neutral, conditioned, and unconditioned stimuli and responses",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/classical-conditioning-neutral-conditioned-and-unconditioned-stimuli-and-responses",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Classical conditioning: Extinction, spontaneous recovery, generalization, discrimination",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/classical-conditioning-extinction-spontaneous-recovery-generalization-discrimination",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Operant conditioning: Positive-and-negative reinforcement and punishment",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/operant-conditioning-positive-and-negative-reinforcement-and-punishment",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Operant conditioning: Shaping",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/operant-conditioning-shaping",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Operant conditioning: Schedules of reinforcement",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/operant-conditioning-schedules-of-reinforcement",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Operant conditioning: Innate vs learned behaviors",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/operant-conditioning-innate-vs-learned-behaviors",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Operant conditioning: Escape and avoidance learning",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/operant-conditioning-escape-and-avoidance-learning",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Observational learning: Bobo doll experiment and social cognitive theory",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/observational-learning-bobo-doll-experiment-and-social-cognitive-theory",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Long term potentiation and synaptic plasticity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/long-term-potentiation-and-synaptic-plasticity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Non associative learning",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/non-associative-learning",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Learning",
+    "resource_name": "Biological constraints on learning",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/learning-slug/v/biological-constraints-on-learning",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Components of attitudes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/components-of-attitude",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Attitude influences behavior",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/attitude-influences-behavior",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Behavior influences attitude",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/behavior-influences-attitude",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Persuasion, attitude change, and the elaboration likelihood model",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/persuasion-attitude-change-and-the-elaboration-likelihood-model",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Reciprocal determinism",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/reciprocal-determinism",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Locus of control, learned helplessness, and the tyranny of choice",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/personal-control-locus-of-control-learned-helplessness-and-the-tyranny-of-choice",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  },
+  {
+    "subtopic_name": "Theories of attitude and behavior change",
+    "resource_name": "Self control",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/behavior/theories-of-attitude-and-behavior-change/v/self-control",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 7: Behavior",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/behavior"
+  }
+]

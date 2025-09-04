@@ -1,0 +1,6 @@
+=== Article Word Count Debug Log - Worker 0 ===
+Started: 2025-09-04 17:41:22.336919
+Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
+
+[17:44:05] Acid-base titration curves | https://www.khanacademy.org/test-prep/mcat/chemical-processes/titrations-and-solubility-equilibria/a/acid-base-titration-curves | body | 578 | 3.2 minutes
+[17:46:35] Chiral drugs | https://www.khanacademy.org/test-prep/mcat/chemical-processes/stereochemistry/a/chiral-drugs | body | 578 | 3.2 minutes

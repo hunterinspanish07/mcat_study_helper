@@ -1,0 +1,2459 @@
+[
+  {
+    "subtopic_name": "Vectors and scalars",
+    "resource_name": "Intro to vectors and scalars",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars/v/introduction-to-vectors-and-scalars",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.7 minutes"
+  },
+  {
+    "subtopic_name": "Vectors and scalars",
+    "resource_name": "Visualizing vectors in 2 dimensions",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars/v/vectors-and-scalars-in-2d-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.0 minutes"
+  },
+  {
+    "subtopic_name": "Vectors and scalars",
+    "resource_name": "Unit vector notation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars/v/unit-vector-notation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.9 minutes"
+  },
+  {
+    "subtopic_name": "Vectors and scalars",
+    "resource_name": "Unit vector notation (part 2)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/vectors-and-scalars/v/unit-vector-notation-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.2 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Calculating average speed and velocity edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/calculating-average-speed-and-velocity-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.3 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Solving for time",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/solving-for-time",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Displacement from time and velocity example",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/displacement-from-time-and-velocity-example",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Instantaneous speed and velocity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/instantaneous-speed-and-velocity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.6 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Acceleration: At a glance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/a/acceleration-at-a-glance",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Acceleration",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/acceleration",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.1 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Airbus A380 take-off time",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/airbus-a380-take-off-time",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.1 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Airbus A380 take-off distance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/airbus-a380-take-off-distance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.5 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Why distance is area under velocity-time line",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/why-distance-is-area-under-velocity-time-line",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Translational motion and calculations",
+    "resource_name": "Average velocity for constant acceleration",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/speed-and-velocity/v/average-velocity-for-constant-acceleration",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.2 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Newton's first law of motion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/newton-s-first-law-of-motion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.5 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Applying Newton's first law of motion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/newton-s-first-law-of-motion-concepts",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.2 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Newton's second law of motion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/newton-s-second-law-of-motion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.2 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Unbalanced forces and motion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/unbalanced-forces-and-motion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.6 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Newton's third law of motion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/newton-s-third-law-of-motion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.0 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Center of mass",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/center-of-mass",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Force and Newton's laws of motion",
+    "resource_name": "Introduction to torque",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:newtons-laws-and-force/v/introduction-to-torque",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Balanced and unbalanced forces",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/balanced-and-unbalanced-forces",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.2 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Normal force and contact force",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/normal-force-and-contact-force",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.3 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Normal force in an elevator",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/normal-force-in-an-elevator",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.8 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Slow sock on Lubricon VI",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/slow-sock-on-lubricon-vi",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.8 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Normal forces on Lubricon VI",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/normal-forces-on-lubricon-vi",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.2 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Inclined plane force components",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/inclined-plane-force-components",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.7 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Ice accelerating down an incline",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/ice-accelerating-down-an-incline",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.6 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Force of friction keeping the block stationary",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/force-of-friction-keeping-the-block-stationary-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.3 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Correction to force of friction keeping the block stationary",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/correction-of-force-of-friction-keeping-the-block-stationary",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "0.8 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Force of friction keeping velocity constant",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/force-of-friction-keeping-velocity-constant-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.0 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Introduction to tension",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/introduction-to-tension",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.3 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Introduction to tension (part 2)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/tension-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.3 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Tension in an accelerating system and pie in the face",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/tension-in-an-accelerating-system-and-pie-in-the-face",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.5 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Intuition on static and kinetic friction comparisons",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/intuition-on-static-and-kinetic-friction-comparisons",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.3 minutes"
+  },
+  {
+    "subtopic_name": "Vector analysis and forces acting on an object",
+    "resource_name": "Static and kinetic friction example",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/x04f6bc56:vector-analysis-and-applications/v/static-and-kinetic-friction-example",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Introduction to work and energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/introduction-to-work-and-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.3 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work and energy (part 2)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/work-and-energy-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.9 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work and the work-energy theorem",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/work-and-the-work-energy-principle",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.8 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work as the transfer of energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/work-as-the-transfer-of-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.3 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work example problems",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/work-example-problems",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.8 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work can be negative!",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/a/work-can-be-negative",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Conservation of energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/conservation-of-energy-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.9 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Work/energy problem with friction",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/work-energy-problem-with-friction",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.1 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Intro to springs and Hooke's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/intro-to-springs-and-hooke-s-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.1 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Potential energy stored in a spring",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/potential-energy-stored-in-a-spring",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Spring potential energy example (mistake in math)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/spring-potential-energy-example-mistake-in-math",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.7 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Conservative forces",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/conservative-forces",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.0 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Power",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/power",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.8 minutes"
+  },
+  {
+    "subtopic_name": "Work and energy",
+    "resource_name": "Introduction to mechanical advantage",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/v/introduction-to-mechanical-advantage",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "The buoyant force does not get smaller as you sink",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/a/the-buoyant-force-does-not-get-smaller-as-you-sink",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Pressure and Pascal's principle (part 1)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/fluids-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Pressure and Pascal's principle (part 2)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/fluids-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Pressure at a depth in a fluid",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/fluids-part-3",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.9 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Finding height of fluid in a barometer",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/fluids-part-4",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.2 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Archimedes principle and buoyant force",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/fluids-part-5",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.7 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Buoyant force example problems edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/buoyant-force-example-problems-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Fluids at rest",
+    "resource_name": "Specific gravity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/v/specific-gravity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Volume flow rate and equation of continuity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-7",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Bernoulli's equation derivation part 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-8",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.1 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Bernoulli's equation derivation part 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-9",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.2 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Finding fluid speed exiting hole",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-10",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.6 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "More on finding fluid speed from hole",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-11",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.3 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Finding flow rate from Bernoulli's equation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/fluids-part-12",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.8 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Viscosity and Poiseuille flow",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/viscosity-and-poiseuille-flow",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.1 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Turbulence at high velocities and Reynold's number",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/turbulence-at-high-velocities-and-reynolds-number",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "2.2 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Surface Tension and Adhesion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/surface-tension-and-adhesion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.6 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Venturi effect and Pitot tubes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/venturi-effect-and-pitot-tubes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Two circulations in the body",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/two-circulations-in-the-body",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.4 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Arteries vs. veins - what's the difference?",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/arteries-vs-veins-what-s-the-difference",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.7 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Resistance in a tube",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/resistance-in-a-tube",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.9 minutes"
+  },
+  {
+    "subtopic_name": "Fluids in motion",
+    "resource_name": "Putting it all together: Pressure, flow, and resistance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-in-motion/v/putting-it-all-together-pressure-flow-and-resistance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.8 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Absolute temperature and the kelvin scale",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/absolute-temperature-and-the-kelvin-scale",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.2 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Pressure and the simple mercury barometer",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/pressure-and-the-simple-mercury-barometer",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.8 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Definition of an ideal gas, ideal gas law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/dideal-gas-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.7 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Derivation of gas constants using molar volume and STP",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/derivation-of-gas-constants-using-molar-volume-and-stp",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.5 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Boyle's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/boyles-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.8 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Charles's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/charles-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.1 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Avogadro's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/avogadros-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.2 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "The van der Waals equation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/van-der-waals-equation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.3 minutes"
+  },
+  {
+    "subtopic_name": "Gas phase",
+    "resource_name": "Partial pressure",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/gas-phase/v/partial-pressure-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.3 minutes"
+  },
+  {
+    "subtopic_name": "Kinetic molecular theory of gases",
+    "resource_name": "Boltzmann's constant",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas/v/boltzmanns-constant",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Kinetic molecular theory of gases",
+    "resource_name": "Heat capacity at constant volume and pressure",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas/v/heat-capacity-at-constant-volume-and-pressure",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.3 minutes"
+  },
+  {
+    "subtopic_name": "Kinetic molecular theory of gases",
+    "resource_name": "Kinetic molecular theory of gases",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/kinetic-molecular-theory-of-gas/v/kinetic-molecular-theory-of-gases",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "15.0 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Triboelectric effect and charge",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/triboelectric-effect-and-charge",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.8 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Coulomb's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/coulombs-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.8 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Conservation of charge",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/conservation-of-charge",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.8 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Conductors and insulators",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/conductors-and-insulators",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.6 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Electric field",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/electrostatics-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.6 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Electric potential",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/a/electric-potential",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Electric potential energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/electric-potential-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.6 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Voltage",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/voltage",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.9 minutes"
+  },
+  {
+    "subtopic_name": "Electrostatics",
+    "resource_name": "Electric potential at a point in space",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/v/electric-potential-at-a-point-in-space",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.2 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Current and resistance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/a/do-electrons-move-rapidly-through-direct-current-circuits",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Ohm's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/circuits-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Resistors in series",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/circuits-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.1 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Resistors in parallel",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/circuits-part-3",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.3 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Example: Analyzing a more complex resistor circuit",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/circuits-part-4",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.1 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Resistivity and conductivity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/resistivity-and-conductivity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.0 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Electrolytic conductivity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/electrolytic-conductivity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.0 minutes"
+  },
+  {
+    "subtopic_name": "Current and resistance",
+    "resource_name": "Voltmeters and ammeters",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/v/voltmeters-and-ammeters",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.3 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Capacitors article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/a/capacitors-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Dielectrics article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/a/dielectric-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.1 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Capacitors and capacitance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/capacitors-and-capacitance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.7 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Capacitance",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/capacitance",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.6 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Energy of a capacitor",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/energy-capacitor",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.4 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Capacitors in series",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/capacitors-series",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Capacitors in parallel",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/capacitors-parallel",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.0 minutes"
+  },
+  {
+    "subtopic_name": "Capacitors",
+    "resource_name": "Dielectrics in capacitors",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/v/dielectrics-capacitors",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.5 minutes"
+  },
+  {
+    "subtopic_name": "Magnetism",
+    "resource_name": "Using the Right-Hand Rule",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/a/using-the-right-hand-rule",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Magnetism",
+    "resource_name": "Magnetism - Part 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/v/magnetism-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.8 minutes"
+  },
+  {
+    "subtopic_name": "Magnetism",
+    "resource_name": "Magnetism - Part 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/v/magnetism-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.0 minutes"
+  },
+  {
+    "subtopic_name": "Magnetism",
+    "resource_name": "Magnetism - Part 3",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/v/magnetism-part-3",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.8 minutes"
+  },
+  {
+    "subtopic_name": "Magnetism",
+    "resource_name": "Magnetism - Part 4",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/v/magnetism-part-4",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.7 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Electrochemistry",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/a/electrochemistry",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Redox reaction from dissolving zinc in copper sulfate",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/redox-reaction-from-dissolving-zinc-in-copper-sulfate",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Introduction to galvanic/voltaic cells",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/galvanic-cell-voltaic-cell",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.0 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Electrodes and voltage of Galvanic cell",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/electrodes-and-voltage-of-galvanic-cell",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.5 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Shorthand notation for galvanic/voltaic cells",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/shorthand-notation-for-galvanicvoltaic-cells",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.3 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Free energy and cell potential",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/free-energy-and-cell-potential-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.8 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Standard reduction potentials",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/standard-reduction-potentials",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.2 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Voltage as an intensive property",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/voltage-as-an-intensive-property-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.7 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Using reduction potentials",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/using-reduction-potentials",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.1 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Spontaneity and redox reactions",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/spontaneity-and-redox-reactions",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.4 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Standard cell potential and the equilibrium constant",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/standard-cell-potential-and-the-equilibrium-constant-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.6 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Calculating the equilibrium constant from the standard cell potential edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/calculating-the-equilibrium-constant-from-the-standard-cell-potential-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.7 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Nernst equation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/nerst-equation-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.8 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Using the Nernst equation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/using-the-nernst-equation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.5 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Concentration cell",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/concentration-cell-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.1 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Introduction to electrolysis",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/introduction-to-electrolysis",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.9 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Quantitative electrolysis",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/quantiative-electrolysis-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.7 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Electrolysis of molten sodium chloride edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/electrolysis-of-molten-sodium-chloride-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.4 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Lead storage battery",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/lead-storage-battery",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.1 minutes"
+  },
+  {
+    "subtopic_name": "Electrochemistry",
+    "resource_name": "Nickel-cadmium battery",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/v/nickel-cadmium-battery",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.1 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Sound is a longitudinal wave",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/a/sound-is-a-longitudinal-wave",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.0 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Production of sound",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/production-of-sound",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.8 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Sound properties: amplitude, period, frequency, wavelength",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/sound-properties-amplitude-period-frequency-wavelength",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.3 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Speed of sound",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/speed-of-sound",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.8 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Relative speed of sound in solids, liquids, and gases",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/relative-speed-of-sound-in-solids-liquids-and-gases",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.3 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Decibel Scale",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/decibel-scale",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.5 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Why do sounds get softer?",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/why-do-sounds-get-softer",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.8 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Ultrasound medical imaging",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/ultrasound-medical-imaging",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.6 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Standing waves in open tubes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/standing-waves-in-tubes-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.3 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Standing waves in closed tubes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/standing-waves-in-tubes-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.9 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Doppler effect introduction",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/introduction-to-the-doppler-effect",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.6 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Doppler effect formula for observed frequency",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/doppler-effect-formula-for-observed-frequency",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.2 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Doppler effect formula when source is moving away",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/doppler-effect-formula-when-source-is-moving-away",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.3 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "When the source and the wave move at the same velocity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/when-the-source-and-the-wave-move-at-the-same-velocity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.6 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Doppler effect for a moving observer",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/doppler-effect-for-a-moving-observer",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.3 minutes"
+  },
+  {
+    "subtopic_name": "Sound",
+    "resource_name": "Doppler effect: reflection off a moving object",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/v/doppler-effect-reflection-off-a-moving-object",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.8 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Electromagnetic waves and the electromagnetic spectrum",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/electromagnetic-waves-and-the-electromagnetic-spectrum",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.0 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Polarization of light",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/polarization-of-light-linear-and-circular",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.5 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Diffraction and constructive and destructive interference",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/a/diffraction-and-constructive-and-destructive-interference",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Wave interference",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/wave-interference",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.5 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Young's double slit introduction",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/youngs-double-split-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Young's double slit equation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/youngs-double-slit-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.7 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Young's double slit problem solving",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/youngs-double-slit-problem-solving",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.2 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Diffraction grating",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/diffraction-grating",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.3 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Single slit interference",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/single-slit-interference",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "15.0 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "More on single slit interference",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/more-on-single-slit-interference",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.1 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Thin film interference (part 1)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/thin-film-interference-part-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.1 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Thin film interference (part 2)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/thin-film-interference-part-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.1 minutes"
+  },
+  {
+    "subtopic_name": "Light and electromagnetic radiation",
+    "resource_name": "Photon energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/v/photon-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.3 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Introduction to infrared spectroscopy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/introduction-to-infrared-spectroscopy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Bonds as springs",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/bonds-as-springs",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.3 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Signal characteristics - wavenumber",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/signal-characteristics-wave-number",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "15.4 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "IR spectra for hydrocarbons",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/ir-spectra-for-hydrocarbons",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.0 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Signal characteristics - intensity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/signal-characteristics-intensity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.6 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Signal characteristics - shape",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/signal-characteristics-shape",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.3 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Symmetric and asymmetric stretching",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/symmetric-and-asymmetric-stretching",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.0 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "IR signals for carbonyl compounds",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/ir-signals-for-carbonyl-compounds",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.9 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "IR spectra practice",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/ir-spectra-practice",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.9 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "UV/Vis spectroscopy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/uv-vis-spectroscopy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.2 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Absorption in the visible region",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/absorption-in-the-visible-region",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.2 minutes"
+  },
+  {
+    "subtopic_name": "Infrared and Ultraviolet/Visible spectroscopy",
+    "resource_name": "Conjugation and color",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/infrared-and-ultraviolet-visible-spectroscopy/v/conjugation-and-color-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Magnetic resonance imaging (MRI)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/a/magnetic-resonance-imaging-mri",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.3 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Introduction to proton NMR",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/introduction-to-proton-nmr",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.4 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Nuclear shielding",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/nuclear-shielding",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.4 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Chemical equivalence",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/chemical-equivalence",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.7 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Chemical shift",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/chemical-shift",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.8 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Electronegativity and chemical shift",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/electronegativity-and-chemical-shift",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.0 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Diamagnetic anisotropy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/diamagnetic-anisotropy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.3 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Integration",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/integration",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.5 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Spin-spin splitting (coupling)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/spin-spin-splitting-coupling",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.4 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Multiplicity: n + 1 rule",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/multiplicity-n-1-rule",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Coupling constant",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/coupling-constant",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.2 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Complex splitting",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/complex-splitting",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.9 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Hydrogen deficiency index",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/hydrogen-deficiency-index",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.8 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Proton NMR practice 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/proton-nmr-practice-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.6 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Proton NMR practice 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/proton-nmr-practice-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.5 minutes"
+  },
+  {
+    "subtopic_name": "Proton nuclear magnetic resonance",
+    "resource_name": "Proton NMR practice 3",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/v/proton-nmr-practice-3",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.4 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Thin lens sign conventions",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/a/thin-lens-sign-conventions",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Convex lenses",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/convex-lenses",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Convex lens examples",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/convex-lens-examples",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.6 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Concave lenses",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/concave-lenses",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.1 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Object image and focal distance relationship (proof of formula)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/object-image-and-focal-distance-relationship-proof-of-formula",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.5 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Object image height and distance relationship",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/object-image-height-and-distance-relationship",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "2.4 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Thin lens equation and problem solving",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/thin-lens-equation-and-problem-solving",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.9 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Multiple lens systems",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/multiple-lens-systems",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.1 minutes"
+  },
+  {
+    "subtopic_name": "Thin lenses",
+    "resource_name": "Diopters, Aberration, and the Human Eye",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/v/diopters-aberration-and-the-human-eye",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.9 minutes"
+  },
+  {
+    "subtopic_name": "Spherical mirrors",
+    "resource_name": "Virtual image",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/v/virtual-image",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.9 minutes"
+  },
+  {
+    "subtopic_name": "Spherical mirrors",
+    "resource_name": "Parabolic mirrors and real images",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/v/parabolic-mirrors-and-real-images",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.6 minutes"
+  },
+  {
+    "subtopic_name": "Spherical mirrors",
+    "resource_name": "Parabolic mirrors 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/v/parabolic-mirrors-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.8 minutes"
+  },
+  {
+    "subtopic_name": "Spherical mirrors",
+    "resource_name": "Convex parabolic mirrors",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/v/convex-parabolic-mirrors",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.0 minutes"
+  },
+  {
+    "subtopic_name": "Spherical mirrors",
+    "resource_name": "\"Objects in the mirror are ...\" actually images in the mirror",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/a/objects-in-the-mirror-are-actually-images-in-the-mirror",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Refraction and light bending",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/a/refraction-and-light-bending",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Specular and diffuse reflection",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/specular-and-diffuse-reflection",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.0 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Specular and diffuse reflection 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/specular-and-diffuse-reflection-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.7 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Refraction and Snell's law",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/refraction-and-snell-s-law",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.4 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Refraction in water",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/refraction-in-water",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.4 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Snell's law example 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/snells-law-example-1-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.2 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Snell's law example 2",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/snells-law-example-2-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Total internal reflection",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/total-internal-reflection-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.5 minutes"
+  },
+  {
+    "subtopic_name": "Reflection and refraction",
+    "resource_name": "Dispersion",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/v/dispersion",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "2.2 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Radioactive decay types article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/a/radioactive-decay-types-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Decay graphs and half lives article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/a/decay-graphs-and-half-lives-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Atomic number, mass number, and isotopes",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/atomic-number-mass-number-and-isotopes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.7 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Atomic mass",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/atomic-mass-2",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.6 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Mass defect and binding energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/mass-defect-and-binding-energy-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.5 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Nuclear stability and nuclear equations",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/nuclear-stability-and-nuclear-equations",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.4 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Writing nuclear equations for alpha, beta, and gamma decay",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/alpha-beta-and-gamma-decay",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.1 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Types of decay",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/types-of-decay",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "17.1 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Half-life and carbon dating",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/half-life",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.5 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Half-life plot",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/half-life-of-radioactive-isotopes",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.8 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Exponential decay formula proof (can skip, involves calculus)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/exponential-decay-formula-proof-can-skip-involves-calculus",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.4 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Introduction to exponential decay",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/introduction-to-exponential-decay-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.9 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Exponential decay and semi-log plots",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/exponential-decay-and-semi-log-plots",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.3 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "More exponential decay examples",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/exponential-decay-examples-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.1 minutes"
+  },
+  {
+    "subtopic_name": "Atomic nucleus",
+    "resource_name": "Mass spectrometer",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/v/mass-spectrometer",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.5 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Photoelectric effect",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/photoelectric-effect",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.4 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Bohr model radii (derivation using physics)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/bohr-model-radii-derivation-using-physics",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.9 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Bohr model radii",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/bohr-model-radii",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "7.0 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Bohr model energy levels (derivation using physics)",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/bohr-model-energy-levels-derivation-using-physics",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.1 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Bohr model energy levels",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/bohr-model-energy-levels",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.8 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Absorption and emission",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/absorption-and-emission",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.5 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Emission spectrum of hydrogen",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/emission-spectrum-of-hydrogen-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.8 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Heisenberg uncertainty principle",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/heisenberg-uncertainty-principle-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.7 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Quantum numbers",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/quantum-numbers",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.0 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Quantum numbers for the first four shells",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/quantum-numbers-for-the-first-four-shells",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.6 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Electron configurations for the first period",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/electron-configurations-for-the-first-period",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.4 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Electron configurations for the second period",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/electron-configurations-for-the-second-period",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.2 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Electron configurations for the third and fourth periods",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/electron-configurations-for-the-third-and-fourth-periods",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.1 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Electron configurations of the 3d transition metals",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/electron-configurations-in-the-3d-orbitals",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.6 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Paramagnetism and diamagnetism",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/v/paramagnetism-and-diamagnetism",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.1 minutes"
+  },
+  {
+    "subtopic_name": "Electronic structure",
+    "resource_name": "Electron configurations article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/a/electron-configurations-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Electronegativity and bonding",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/electronegativity-and-chemical-bonds",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.7 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "The periodic table",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/periodic-table-introduction",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.9 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "The periodic table - transition metals",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/periodic-table-transition-metals",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.6 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Counting valence electrons for main group elements",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/periodic-table-valence-electrons",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.3 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Atomic and ionic radii",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/atomic-and-ionic-radii",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.4 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Ionization energy: group trend",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/group-trend-for-ionization-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.3 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Ionization energy: period trend",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/period-trend-for-ionization-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "10.1 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "First and second ionization energy",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/first-and-second-ionization-energy",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Periodic table",
+    "resource_name": "Electron affinity: period trend",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/periodic-table-of-elements/v/electron-affinity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "13.1 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Stoichiometry article",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/a/stoichiometry-article",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Stoichiometry and empirical formulae",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/a/stoichiometry-and-empirical-formulae",
+    "resource_type": "Article",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Empirical formula from mass composition edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/empirical-formula-from-mass-composition-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "6.2 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Molecular and empirical formulas",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/molecular-and-empirical-formulas-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "15.2 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "The mole and Avogadro's number",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/the-mole-and-avogadro-s-number",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.9 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Stoichiometry example problem 1",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/stoichiometry-example-problem-1-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "11.6 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Stoichiometry",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/stoichiometry-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "9.4 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Limiting reactant example problem 1 edited",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/limiting-reactant-example-problem-1-edited",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "18.1 minutes"
+  },
+  {
+    "subtopic_name": "Stoichiometry",
+    "resource_name": "Specific gravity",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/v/specific-gravity",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "3.2 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Balancing chemical equations",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/v/balancing-chemical-equations-introduction",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Balancing more complex chemical equations",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/v/balancing-more-complex-chemical-equation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.6 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Visually understanding balancing chemical equations",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/v/visually-understanding-balancing-chemical-equations",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.6 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Balancing another combustion reaction",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/v/balancing-another-combustion-reaction",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Balancing chemical equation with substitution",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/v/balancing-chemical-equation-with-substitution",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "4.2 minutes"
+  },
+  {
+    "subtopic_name": "Balancing chemical equations",
+    "resource_name": "Balancing Chemical Equations Intuition",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/copy-of-balancing-chemical-equations/pi/balancing-chemical-equations-intuition",
+    "resource_type": "Unknown",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Redox reactions",
+    "resource_name": "Oxidizing and reducing agents",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions/v/oxidizing-and-reducing-agents-1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "8.5 minutes"
+  },
+  {
+    "subtopic_name": "Redox reactions",
+    "resource_name": "Disproportionation",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions/v/disproportionation",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "5.0 minutes"
+  },
+  {
+    "subtopic_name": "Redox reactions",
+    "resource_name": "Worked example: Balancing a redox equation in acidic solution",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions/v/balance-and-redox-reactions1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "12.1 minutes"
+  },
+  {
+    "subtopic_name": "Redox reactions",
+    "resource_name": "Worked example: Balancing a redox equation in basic solution",
+    "resource_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes/redox-reactions/v/balancing-redox-reactions1",
+    "resource_type": "Video",
+    "foundation_name": "Foundation 4: Physical processes",
+    "foundation_url": "https://www.khanacademy.org/test-prep/mcat/physical-processes",
+    "estimated_time": "14.0 minutes"
+  }
+]
