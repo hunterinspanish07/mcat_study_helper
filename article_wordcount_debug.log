@@ -1,47 +1,28 @@
 === Merged Article Word Count Debug Log ===
-Merged at: 2025-09-04 17:41:03.707666
+Merged at: 2025-09-04 18:05:32.642236
 Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
 
 
 --- From article_wordcount_debug_worker_1.log ---
 === Article Word Count Debug Log - Worker 1 ===
-Started: 2025-09-04 17:31:59.519843
+Started: 2025-09-04 18:04:31.043785
 Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
 
-[17:34:19] Electric potential | https://www.khanacademy.org/test-prep/mcat/physical-processes/electrostatics-1/a/electric-potential | body | 578 | 3.2 minutes
-[17:34:46] Current and resistance | https://www.khanacademy.org/test-prep/mcat/physical-processes/current-and-resistance/a/do-electrons-move-rapidly-through-direct-current-circuits | body | 578 | 3.2 minutes
-[17:35:50] Capacitors article | https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/a/capacitors-article | body | 575 | 3.2 minutes
-[17:36:00] Dielectrics article | https://www.khanacademy.org/test-prep/mcat/physical-processes/capacitors/a/dielectric-article | .perseus-article | 1450 | 8.1 minutes
-[17:37:10] Using the Right-Hand Rule | https://www.khanacademy.org/test-prep/mcat/physical-processes/magnetism-mcat/a/using-the-right-hand-rule | body | 578 | 3.2 minutes
-[17:37:43] Electrochemistry | https://www.khanacademy.org/test-prep/mcat/physical-processes/intro-electrochemistry-mcat/a/electrochemistry | body | 575 | 3.2 minutes
-[17:40:34] Sound is a longitudinal wave | https://www.khanacademy.org/test-prep/mcat/physical-processes/sound/a/sound-is-a-longitudinal-wave | .perseus-article | 1077 | 6.0 minutes
 
 --- From article_wordcount_debug_worker_3.log ---
 === Article Word Count Debug Log - Worker 3 ===
-Started: 2025-09-04 17:31:59.519419
+Started: 2025-09-04 18:04:31.048090
 Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
 
-[17:32:05] Refraction and light bending | https://www.khanacademy.org/test-prep/mcat/physical-processes/reflection-and-refraction/a/refraction-and-light-bending | body | 575 | 3.2 minutes
-[17:33:02] Radioactive decay types article | https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/a/radioactive-decay-types-article | body | 578 | 3.2 minutes
-[17:33:06] Decay graphs and half lives article | https://www.khanacademy.org/test-prep/mcat/physical-processes/atomic-nucleus/a/decay-graphs-and-half-lives-article | body | 578 | 3.2 minutes
-[17:37:10] Electron configurations article | https://www.khanacademy.org/test-prep/mcat/physical-processes/electronic-structure/a/electron-configurations-article | body | 578 | 3.2 minutes
-[17:38:52] Stoichiometry article | https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/a/stoichiometry-article | body | 578 | 3.2 minutes
-[17:38:55] Stoichiometry and empirical formulae | https://www.khanacademy.org/test-prep/mcat/physical-processes/stoichiometry/a/stoichiometry-and-empirical-formulae | body | 578 | 3.2 minutes
 
 --- From article_wordcount_debug_worker_0.log ---
 === Article Word Count Debug Log - Worker 0 ===
-Started: 2025-09-04 17:31:59.520332
+Started: 2025-09-04 18:04:31.042617
 Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
 
-[17:37:00] Work can be negative! | https://www.khanacademy.org/test-prep/mcat/physical-processes/work-and-energy-mcat/a/work-can-be-negative | body | 575 | 3.2 minutes
-[17:38:14] The buoyant force does not get smaller as you sink | https://www.khanacademy.org/test-prep/mcat/physical-processes/fluids-at-rest/a/the-buoyant-force-does-not-get-smaller-as-you-sink | body | 578 | 3.2 minutes
 
 --- From article_wordcount_debug_worker_2.log ---
 === Article Word Count Debug Log - Worker 2 ===
-Started: 2025-09-04 17:31:59.519752
+Started: 2025-09-04 18:04:31.046283
 Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
 
-[17:33:48] Diffraction and constructive and destructive interference | https://www.khanacademy.org/test-prep/mcat/physical-processes/light-and-electromagnetic-radiation-questions/a/diffraction-and-constructive-and-destructive-interference | body | 578 | 3.2 minutes
-[17:37:03] Magnetic resonance imaging (MRI) | https://www.khanacademy.org/test-prep/mcat/physical-processes/proton-nuclear-magnetic-resonance/a/magnetic-resonance-imaging-mri | body | 592 | 3.3 minutes
-[17:39:31] Thin lens sign conventions | https://www.khanacademy.org/test-prep/mcat/physical-processes/thin-lenses/a/thin-lens-sign-conventions | body | 578 | 3.2 minutes
-[17:41:03] "Objects in the mirror are ..." actually images in the mirror | https://www.khanacademy.org/test-prep/mcat/physical-processes/spherical-mirrors/a/objects-in-the-mirror-are-actually-images-in-the-mirror | body | 575 | 3.2 minutes

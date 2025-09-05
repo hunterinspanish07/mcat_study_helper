@@ -1,8 +1,0 @@
-=== Article Word Count Debug Log - Worker 3 ===
-Started: 2025-09-04 17:41:22.348131
-Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
-
-[17:41:53] Enzyme regulation | https://www.khanacademy.org/test-prep/mcat/chemical-processes/enzymes/a/enzyme-regulation | body | 578 | 3.2 minutes
-[17:41:57] Enzyme inhibition and kinetics graphs | https://www.khanacademy.org/test-prep/mcat/chemical-processes/enzymes/a/enzyme-inhibition-and-kinetics-graphs | body | 578 | 3.2 minutes
-[17:46:10] Biomolecules and reactions | https://www.khanacademy.org/test-prep/mcat/chemical-processes/bioenergetics/a/biomolecules-and-reactions | body | 589 | 3.3 minutes
-[17:46:48] Thermodynamics article | https://www.khanacademy.org/test-prep/mcat/chemical-processes/thermodynamics-mcat/a/thermodynamics-article | body | 592 | 3.3 minutes

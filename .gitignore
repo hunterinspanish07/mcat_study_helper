@@ -1,0 +1,8 @@
+.env
+.venv
+__pycache__
+.ipynb_checkpoints
+.vscode
+output/foundation_5_resources.json
+output/foundation_5_resources.json
+output/foundation_6_resources.json

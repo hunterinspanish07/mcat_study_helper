@@ -1,8 +1,0 @@
-=== Article Word Count Debug Log - Worker 2 ===
-Started: 2025-09-04 17:41:22.339970
-Format: [TIMESTAMP] RESOURCE_NAME | URL | SELECTOR_USED | WORD_COUNT | CALCULATED_TIME
-
-[17:41:29] Aldol reactions in metabolism | https://www.khanacademy.org/test-prep/mcat/chemical-processes/alpha-carbon-chemistry/a/aldol-reactions-in-metabolism | body | 65 | 5.0 minutes
-[17:44:19] Cyclic hemiacetals and hemiketals | https://www.khanacademy.org/test-prep/mcat/chemical-processes/aldehydes-and-ketones/a/cyclic-hemiacetals-and-hemiketals | body | 578 | 3.2 minutes
-[17:44:35] Biological oxidation of alcohols | https://www.khanacademy.org/test-prep/mcat/chemical-processes/alcohols-and-phenols/a/biological-oxidation-of-alcohols | .perseus-article | 1256 | 7.0 minutes
-[17:45:56] Carboxylic acid reactions overview | https://www.khanacademy.org/test-prep/mcat/chemical-processes/carboxylic-acids/a/carboxylic-acid-reactions-overview | body | 592 | 3.3 minutes

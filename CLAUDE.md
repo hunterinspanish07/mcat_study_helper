@@ -27,6 +27,17 @@ JSON
 Phase 2: Semantic Indexing
 Objective
 Create a searchable vector index from the extracted Khan Academy JSON data. This script will run once to populate the database.
+
+Database Configuration
+The project uses MongoDB Atlas as the database backend, configured through an MCP (MongoDB Connection Provider) server. The configuration is defined in `claude.json`:
+
+
+The MongoDB connection is tested and verified using `test_mongodb_atlas.py`, which checks both synchronous and asynchronous connections. The script ensures:
+- Valid MongoDB URI configuration
+- Successful connection to Atlas cluster
+- CRUD operations on the `mcat_study_tool` database
+- Both sync (PyMongo) and async (Motor) client compatibility
+
 Key Inputs
 All JSON files from the ./Output/ folder.
 A new, manually created category_map.json file to map high-level subjects to foundations.
@@ -40,14 +51,25 @@ JSON
   "Organic Chemistry": ["Foundation 5: Chemical processes"]
 }
 Steps & Requirements
-Create a new script, e.g., populate_vectordb.py.
-Load Data: The script will read and combine all resource objects from the JSON files in the Output/ directory.
-Create Descriptive Text: For each resource, create a single descriptive string for embedding.
-Format: f"{foundation_name}: {subtopic_name} - {resource_name}"
-Example: "Biomolecules: Amino acids and proteins - Amino acid structure and classifications"
-Generate Embeddings: Use an embedding model (e.g., OpenAI's text-embedding-3-small) to convert each descriptive string into a vector embedding.
-Setup Vector DB: Initialize a local, persistent vector database using a library like ChromaDB.
-Store Data: For each resource, store its vector embedding along with its complete metadata in the database. The metadata is crucial for filtering and for returning useful information to the user.
+1. Configure MongoDB:
+   - Ensure MONGODB_URI environment variable is set
+   - Verify connection using test_mongodb_atlas.py
+   - Initialize the vector database collections
+
+2. Create Database Schema:
+   - Database: mcat_study_tool
+   - Collections: 
+     - khan_resources (for raw data)
+     - vector_embeddings (for semantic search index)
+
+3. Create a new script, e.g., populate_vectordb.py.
+4. Load Data: The script will read and combine all resource objects from the JSON files in the Output/ directory.
+5. Create Descriptive Text: For each resource, create a single descriptive string for embedding.
+   Format: f"{foundation_name}: {subtopic_name} - {resource_name}"
+   Example: "Biomolecules: Amino acids and proteins - Amino acid structure and classifications"
+6. Generate Embeddings: Use an embedding model (e.g., OpenAI's text-embedding-3-small) to convert each descriptive string into a vector embedding.
+7. Setup Vector DB: Initialize a local, persistent vector database using a library like ChromaDB.
+8. Store Data: For each resource, store its vector embedding along with its complete metadata in the database. The metadata is crucial for filtering and for returning useful information to the user.
 Phase 3: Backend API and Search Logic
 Objective
 Build a simple API server that can receive a study topic and subject, perform a filtered semantic search, and return the most relevant resources.
@@ -85,3 +107,4 @@ Display Results:
 The frontend receives the JSON response from the API.
 It dynamically renders the results in the right pane as a list of "resource cards".
 Each card will display the resource title, type (Video/Article), estimated time, and a clickable link to the Khan Academy page.
+- we already have .venv. Start all commands like ""source .venv/bin/activate && .."

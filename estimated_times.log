@@ -3873,3 +3873,545 @@ Stacktrace:
 2025-09-04 17:47:39,053 - INFO - Found duration in video-time-hidden: 5.4 minutes
 2025-09-04 17:47:42,224 - INFO - Found duration in video-time-hidden: 6.1 minutes
 2025-09-04 17:47:44,407 - INFO - Found duration in video-time-hidden: 13.7 minutes
+2025-09-04 17:47:45,433 - INFO - Found duration in video-time-hidden: 11.6 minutes
+2025-09-04 17:47:48,169 - INFO - Found duration in video-time-hidden: 11.4 minutes
+2025-09-04 17:47:50,687 - INFO - Found duration in video-time-hidden: 7.2 minutes
+2025-09-04 17:47:53,042 - INFO - Found duration in video-time-hidden: 12.6 minutes
+2025-09-04 17:47:53,134 - INFO - Found duration in video-time-hidden: 10.1 minutes
+2025-09-04 17:47:57,622 - INFO - Found duration in video-time-hidden: 11.8 minutes
+2025-09-04 17:47:59,981 - INFO - Found duration in video-time-hidden: 8.8 minutes
+2025-09-04 17:48:00,565 - INFO - Found duration in video-time-hidden: 10.2 minutes
+2025-09-04 17:48:01,562 - INFO - Found duration in video-time-hidden: 4.2 minutes
+2025-09-04 17:48:04,084 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:48:06,697 - INFO - Found duration in video-time-hidden: 9.2 minutes
+2025-09-04 17:48:08,148 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 17:48:10,049 - INFO - Found duration in video-time-hidden: 8.6 minutes
+2025-09-04 17:48:12,904 - INFO - Found duration in video-time-hidden: 11.7 minutes
+2025-09-04 17:48:14,537 - INFO - Worker 0 completed (54/54 successful). Progress: 54/218 (24.8%). ETA: 0:20:51.875626
+2025-09-04 17:48:16,155 - INFO - Found duration in video-time-hidden: 6.1 minutes
+2025-09-04 17:48:16,685 - INFO - Found duration in video-time-hidden: 10.7 minutes
+2025-09-04 17:48:19,436 - INFO - Found duration in video-time-hidden: 15.1 minutes
+2025-09-04 17:48:23,742 - INFO - Found duration in video-time-hidden: 6.7 minutes
+2025-09-04 17:48:25,064 - INFO - Worker 2 completed (54/54 successful). Progress: 108/218 (49.5%). ETA: 0:07:10.557494
+2025-09-04 17:48:26,756 - INFO - Found duration in video-time-hidden: 13.0 minutes
+2025-09-04 17:48:28,811 - INFO - Found duration in video-time-hidden: 12.6 minutes
+2025-09-04 17:48:32,875 - INFO - Found duration in video-time-hidden: 11.2 minutes
+2025-09-04 17:48:36,213 - INFO - Found duration in video-time-hidden: 15.7 minutes
+2025-09-04 17:48:40,840 - INFO - Found duration in video-time-hidden: 11.2 minutes
+2025-09-04 17:48:43,984 - INFO - Found duration in video-time-hidden: 17.7 minutes
+2025-09-04 17:48:49,110 - INFO - Found duration in video-time-hidden: 10.4 minutes
+2025-09-04 17:48:50,787 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 17:48:55,826 - INFO - Found duration in video-time-hidden: 11.5 minutes
+2025-09-04 17:48:56,170 - INFO - Worker 1 completed (54/54 successful). Progress: 162/218 (74.3%). ETA: 0:02:36.881554
+2025-09-04 17:48:58,407 - INFO - Found duration in video-time-hidden: 13.9 minutes
+2025-09-04 17:48:58,750 - INFO - Worker 3 completed (54/54 successful). Progress: 216/218 (99.1%). ETA: 0:00:04.226077
+2025-09-04 17:48:58,759 - INFO - Successfully updated 216/221 resources in output/foundation_5_resources.json. Time taken: 0:07:36.424874
+2025-09-04 17:48:58,806 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 17:48:58,807 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 17:48:58,807 - INFO - Successfully updated 216/221 total resources
+2025-09-04 17:48:58,807 - INFO - Total time taken: 0:07:36.485268
+2025-09-04 17:48:58,807 - INFO - Processing rate: 0.48 resources/second
+2025-09-04 17:50:20,332 - INFO - Starting optimized processing with 4 workers
+2025-09-04 17:50:20,333 - INFO - Settings: delay=0.5s, timeout=10s
+2025-09-04 17:50:20,333 - INFO - Processing file: output/foundation_6_resources.json with 4 workers
+2025-09-04 17:50:20,334 - INFO - Processing 86 resources (only missing or fallback estimated_time values)
+2025-09-04 17:50:20,334 - INFO - Starting 4 workers to process 86 resources
+2025-09-04 17:50:20,340 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:50:20,341 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:50:20,342 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:50:20,344 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:50:22,538 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:50:22,544 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:50:22,557 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:50:22,559 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:50:38,600 - INFO - Found duration in video-time-hidden: 5.8 minutes
+2025-09-04 17:50:39,152 - INFO - Found duration in video-time-hidden: 3.3 minutes
+2025-09-04 17:50:39,415 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:50:39,447 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 17:50:55,676 - INFO - Found duration in video-time-hidden: 6.7 minutes
+2025-09-04 17:50:56,017 - INFO - Found duration in video-time-hidden: 3.1 minutes
+2025-09-04 17:50:57,602 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 17:50:59,394 - INFO - Found duration in video-time-hidden: 3.9 minutes
+2025-09-04 17:51:06,528 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 17:51:06,591 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 17:51:06,750 - INFO - Found duration in video-time-hidden: 3.6 minutes
+2025-09-04 17:51:08,510 - INFO - Found duration in video-time-hidden: 8.4 minutes
+2025-09-04 17:51:13,828 - INFO - Found duration in video-time-hidden: 4.7 minutes
+2025-09-04 17:51:13,911 - INFO - Found duration in video-time-hidden: 4.1 minutes
+2025-09-04 17:51:14,712 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:51:17,087 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 17:51:20,731 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 17:51:20,748 - INFO - Found duration in video-time-hidden: 5.2 minutes
+2025-09-04 17:51:21,314 - INFO - Found duration in video-time-hidden: 7.2 minutes
+2025-09-04 17:51:23,344 - INFO - Found duration in video-time-hidden: 7.5 minutes
+2025-09-04 17:51:27,837 - INFO - Found duration in video-time-hidden: 6.8 minutes
+2025-09-04 17:51:27,935 - INFO - Found duration in video-time-hidden: 5.3 minutes
+2025-09-04 17:51:29,584 - INFO - Found duration in video-time-hidden: 3.1 minutes
+2025-09-04 17:51:31,118 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 17:51:33,486 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:51:34,269 - INFO - Found duration in video-time-hidden: 9.4 minutes
+2025-09-04 17:51:38,509 - INFO - Found duration in video-time-hidden: 4.8 minutes
+2025-09-04 17:51:38,986 - INFO - Found duration in video-time-hidden: 6.7 minutes
+2025-09-04 17:51:41,580 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 17:51:41,862 - INFO - Found duration in video-time-hidden: 8.9 minutes
+2025-09-04 17:51:45,564 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 17:51:45,583 - INFO - Found duration in video-time-hidden: 7.6 minutes
+2025-09-04 17:51:49,113 - INFO - Found duration in video-time-hidden: 8.1 minutes
+2025-09-04 17:51:49,465 - INFO - Found duration in video-time-hidden: 12.8 minutes
+2025-09-04 17:51:49,805 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:51:52,342 - INFO - Found duration in video-time-hidden: 7.5 minutes
+2025-09-04 17:51:56,758 - INFO - Found duration in video-time-hidden: 8.1 minutes
+2025-09-04 17:51:57,633 - INFO - Found duration in video-time-hidden: 12.5 minutes
+2025-09-04 17:51:58,401 - INFO - Found duration in video-time-hidden: 6.2 minutes
+2025-09-04 17:51:59,825 - INFO - Found duration in video-time-hidden: 7.6 minutes
+2025-09-04 17:52:03,889 - INFO - Found duration in video-time-hidden: 7.3 minutes
+2025-09-04 17:52:06,584 - INFO - Found duration in video-time-hidden: 4.4 minutes
+2025-09-04 17:52:07,008 - INFO - Found duration in video-time-hidden: 8.7 minutes
+2025-09-04 17:52:07,697 - INFO - Found duration in video-time-hidden: 5.1 minutes
+2025-09-04 17:52:10,481 - INFO - Found duration in video-time-hidden: 7.5 minutes
+2025-09-04 17:52:15,317 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 17:52:16,025 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:52:16,973 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 17:52:18,426 - INFO - Found duration in video-time-hidden: 10.5 minutes
+2025-09-04 17:52:26,059 - INFO - Found duration in video-time-hidden: 4.4 minutes
+2025-09-04 17:52:26,070 - INFO - Found duration in video-time-hidden: 3.9 minutes
+2025-09-04 17:52:31,179 - INFO - Found duration in video-time-hidden: 10.5 minutes
+2025-09-04 17:52:31,491 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:52:35,258 - INFO - Found duration in video-time-hidden: 4.8 minutes
+2025-09-04 17:52:35,472 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 17:52:38,540 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 17:52:38,658 - INFO - Found duration in video-time-hidden: 10.6 minutes
+2025-09-04 17:52:41,849 - INFO - Found duration in video-time-hidden: 2.6 minutes
+2025-09-04 17:52:42,375 - INFO - Found duration in video-time-hidden: 5.4 minutes
+2025-09-04 17:52:46,497 - INFO - Found duration in video-time-hidden: 5.1 minutes
+2025-09-04 17:52:47,493 - INFO - Found duration in video-time-hidden: 10.6 minutes
+2025-09-04 17:52:50,024 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:52:50,198 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 17:52:53,635 - INFO - Found duration in video-time-hidden: 5.7 minutes
+2025-09-04 17:52:55,613 - INFO - Found duration in video-time-hidden: 8.1 minutes
+2025-09-04 17:52:57,900 - INFO - Found duration in video-time-hidden: 3.1 minutes
+2025-09-04 17:53:00,290 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:53:03,421 - INFO - Found duration in video-time-hidden: 4.2 minutes
+2025-09-04 17:53:04,943 - INFO - Found duration in video-time-hidden: 8.2 minutes
+2025-09-04 17:53:06,399 - INFO - Found duration in video-time-hidden: 3.8 minutes
+2025-09-04 17:53:16,169 - INFO - Found duration in video-time-hidden: 7.1 minutes
+2025-09-04 17:53:18,831 - INFO - Found duration in video-time-hidden: 7.2 minutes
+2025-09-04 17:53:19,699 - INFO - Found duration in video-time-hidden: 6.1 minutes
+2025-09-04 17:53:35,374 - ERROR - Worker 2 failed to fetch https://www.khanacademy.org/test-prep/mcat/processing-the-environment/memory/v/semantic-networks-and-spreading-activation: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=140.0.7339.80)
+Stacktrace:
+#0 0x5ffdbfd4794a <unknown>
+#1 0x5ffdbf7bc8a0 <unknown>
+#2 0x5ffdbf7a4eb9 <unknown>
+#3 0x5ffdbf7a4bc5 <unknown>
+#4 0x5ffdbf7a2a42 <unknown>
+#5 0x5ffdbf7a339f <unknown>
+#6 0x5ffdbf7b1bf3 <unknown>
+#7 0x5ffdbf7cadeb <unknown>
+#8 0x5ffdbf7d15fb <unknown>
+#9 0x5ffdbf7a3add <unknown>
+#10 0x5ffdbf7cab41 <unknown>
+#11 0x5ffdbf859b00 <unknown>
+#12 0x5ffdbf833e03 <unknown>
+#13 0x5ffdbf800968 <unknown>
+#14 0x5ffdbf8015e1 <unknown>
+#15 0x5ffdbfd0b548 <unknown>
+#16 0x5ffdbfd0f272 <unknown>
+#17 0x5ffdbfcf2313 <unknown>
+#18 0x5ffdbfd0fdc5 <unknown>
+#19 0x5ffdbfcd749f <unknown>
+#20 0x5ffdbfd34158 <unknown>
+#21 0x5ffdbfd34332 <unknown>
+#22 0x5ffdbfd46a53 <unknown>
+#23 0x7c0ee589caa4 <unknown>
+#24 0x7c0ee5929c3c <unknown>
+
+2025-09-04 17:53:35,374 - WARNING - Worker 2 failed to fetch page for Semantic networks and spreading activation, using default
+2025-09-04 17:53:38,437 - ERROR - Worker 0 failed to fetch https://www.khanacademy.org/test-prep/mcat/processing-the-environment/sound-audition/v/auditory-structure-part-1: Message: timeout: Timed out receiving message from renderer: 9.802
+  (Session info: chrome=140.0.7339.80)
+Stacktrace:
+#0 0x6344a137d94a <unknown>
+#1 0x6344a0df28a0 <unknown>
+#2 0x6344a0ddaeb9 <unknown>
+#3 0x6344a0ddabc5 <unknown>
+#4 0x6344a0dd8a42 <unknown>
+#5 0x6344a0dd939f <unknown>
+#6 0x6344a0de7bf3 <unknown>
+#7 0x6344a0e00deb <unknown>
+#8 0x6344a0e075fb <unknown>
+#9 0x6344a0dd9add <unknown>
+#10 0x6344a0e00b41 <unknown>
+#11 0x6344a0e8ff80 <unknown>
+#12 0x6344a0e69e03 <unknown>
+#13 0x6344a0e36968 <unknown>
+#14 0x6344a0e375e1 <unknown>
+#15 0x6344a1341548 <unknown>
+#16 0x6344a1345272 <unknown>
+#17 0x6344a1328313 <unknown>
+#18 0x6344a1345dc5 <unknown>
+#19 0x6344a130d49f <unknown>
+#20 0x6344a136a158 <unknown>
+#21 0x6344a136a332 <unknown>
+#22 0x6344a137ca53 <unknown>
+#23 0x73bf4fe9caa4 <unknown>
+#24 0x73bf4ff29c3c <unknown>
+
+2025-09-04 17:53:38,581 - WARNING - Worker 0 failed to fetch page for Auditory structure - part 1, using default
+2025-09-04 17:53:38,583 - ERROR - Worker 3 failed to fetch https://www.khanacademy.org/test-prep/mcat/processing-the-environment/stress/v/stressors: Message: timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=140.0.7339.80)
+Stacktrace:
+#0 0x650c67c4e94a <unknown>
+#1 0x650c676c38a0 <unknown>
+#2 0x650c676abeb9 <unknown>
+#3 0x650c676abbc5 <unknown>
+#4 0x650c676a9a42 <unknown>
+#5 0x650c676aa39f <unknown>
+#6 0x650c676b8bf3 <unknown>
+#7 0x650c676d1deb <unknown>
+#8 0x650c676d85fb <unknown>
+#9 0x650c676aaadd <unknown>
+#10 0x650c676d1b41 <unknown>
+#11 0x650c67760b00 <unknown>
+#12 0x650c6773ae03 <unknown>
+#13 0x650c67707968 <unknown>
+#14 0x650c677085e1 <unknown>
+#15 0x650c67c12548 <unknown>
+#16 0x650c67c16272 <unknown>
+#17 0x650c67bf9313 <unknown>
+#18 0x650c67c16dc5 <unknown>
+#19 0x650c67bde49f <unknown>
+#20 0x650c67c3b158 <unknown>
+#21 0x650c67c3b332 <unknown>
+#22 0x650c67c4da53 <unknown>
+#23 0x70dfc689caa4 <unknown>
+#24 0x70dfc6929c3c <unknown>
+
+2025-09-04 17:53:38,583 - WARNING - Worker 3 failed to fetch page for Stressors, using default
+2025-09-04 17:53:48,800 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:53:51,592 - INFO - Found duration in video-time-hidden: 5.9 minutes
+2025-09-04 17:53:52,993 - INFO - Found duration in video-time-hidden: 5.4 minutes
+2025-09-04 17:53:53,410 - INFO - Worker 0 completed (21/21 successful). Progress: 21/86 (24.4%). ETA: 0:10:59.518563
+2025-09-04 17:53:53,981 - INFO - Found duration in video-time-hidden: 8.8 minutes
+2025-09-04 17:53:54,724 - INFO - Found duration in video-time-hidden: 3.3 minutes
+2025-09-04 17:53:56,701 - INFO - Found duration in video-time-hidden: 5.4 minutes
+2025-09-04 17:53:57,119 - INFO - Worker 2 completed (21/21 successful). Progress: 42/86 (48.8%). ETA: 0:03:47.108121
+2025-09-04 17:53:59,830 - INFO - Found duration in video-time-hidden: 10.6 minutes
+2025-09-04 17:54:00,981 - INFO - Found duration in video-time-hidden: 3.8 minutes
+2025-09-04 17:54:00,985 - INFO - Worker 3 completed (21/21 successful). Progress: 63/86 (73.3%). ETA: 0:01:20.554925
+2025-09-04 17:54:01,619 - INFO - Worker 1 completed (21/21 successful). Progress: 84/86 (97.7%). ETA: 0:00:05.268685
+2025-09-04 17:54:01,624 - INFO - Successfully updated 84/87 resources in output/foundation_6_resources.json. Time taken: 0:03:41.289772
+2025-09-04 17:54:01,648 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 17:54:01,648 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 17:54:01,649 - INFO - Successfully updated 84/87 total resources
+2025-09-04 17:54:01,649 - INFO - Total time taken: 0:03:41.315641
+2025-09-04 17:54:01,649 - INFO - Processing rate: 0.39 resources/second
+2025-09-04 17:55:04,513 - INFO - Starting optimized processing with 4 workers
+2025-09-04 17:55:04,513 - INFO - Settings: delay=0.5s, timeout=10s
+2025-09-04 17:55:04,513 - INFO - Processing file: output/foundation_7_resources.json with 4 workers
+2025-09-04 17:55:04,515 - INFO - Processing 113 resources (only missing or fallback estimated_time values)
+2025-09-04 17:55:04,516 - INFO - Starting 4 workers to process 113 resources
+2025-09-04 17:55:04,518 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:55:04,522 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:55:04,526 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:55:04,528 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:55:06,658 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:55:06,722 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:55:06,738 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:55:06,753 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:55:19,125 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:55:21,591 - INFO - Found duration in video-time-hidden: 4.3 minutes
+2025-09-04 17:55:21,804 - INFO - Found duration in video-time-hidden: 10.0 minutes
+2025-09-04 17:55:22,225 - INFO - Found duration in video-time-hidden: 8.8 minutes
+2025-09-04 17:55:30,158 - INFO - Found duration in video-time-hidden: 5.2 minutes
+2025-09-04 17:55:33,844 - INFO - Found duration in video-time-hidden: 9.8 minutes
+2025-09-04 17:55:34,024 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 17:55:34,812 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 17:55:38,125 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:55:42,235 - INFO - Found duration in video-time-hidden: 8.6 minutes
+2025-09-04 17:55:43,364 - INFO - Found duration in video-time-hidden: 9.6 minutes
+2025-09-04 17:55:43,731 - INFO - Found duration in video-time-hidden: 6.9 minutes
+2025-09-04 17:55:45,921 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:55:50,305 - INFO - Found duration in video-time-hidden: 5.2 minutes
+2025-09-04 17:55:51,258 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:55:52,793 - INFO - Found duration in video-time-hidden: 9.5 minutes
+2025-09-04 17:55:52,961 - INFO - Found duration in video-time-hidden: 7.8 minutes
+2025-09-04 17:55:56,548 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:56:02,155 - INFO - Article word count: 575 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:56:05,991 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 17:56:05,995 - INFO - Found duration in video-time-hidden: 9.5 minutes
+2025-09-04 17:56:07,975 - INFO - Found duration in video-time-hidden: 9.6 minutes
+2025-09-04 17:56:16,362 - INFO - Found duration in video-time-hidden: 4.9 minutes
+2025-09-04 17:56:20,101 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 17:56:20,837 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 17:56:20,962 - INFO - Found duration in video-time-hidden: 11.4 minutes
+2025-09-04 17:56:26,993 - INFO - Found duration in video-time-hidden: 4.7 minutes
+2025-09-04 17:56:27,097 - INFO - Found duration in video-time-hidden: 16.3 minutes
+2025-09-04 17:56:27,924 - INFO - Found duration in video-time-hidden: 6.3 minutes
+2025-09-04 17:56:29,541 - INFO - Found duration in video-time-hidden: 6.7 minutes
+2025-09-04 17:56:38,810 - INFO - Found duration in video-time-hidden: 7.9 minutes
+2025-09-04 17:56:40,808 - INFO - Found duration in video-time-hidden: 6.1 minutes
+2025-09-04 17:56:42,277 - INFO - Found duration in video-time-hidden: 13.7 minutes
+2025-09-04 17:56:45,082 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:56:51,929 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:56:55,179 - INFO - Found duration in video-time-hidden: 7.1 minutes
+2025-09-04 17:56:55,779 - INFO - Found duration in video-time-hidden: 13.6 minutes
+2025-09-04 17:56:58,703 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 17:57:02,374 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:57:05,584 - INFO - Found duration in video-time-hidden: 5.7 minutes
+2025-09-04 17:57:08,442 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 17:57:09,050 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 17:57:11,778 - INFO - Found duration in video-time-hidden: 12.8 minutes
+2025-09-04 17:57:17,061 - WARNING - Article appears to have very few words (65) using selector 'body', may not have loaded content properly
+2025-09-04 17:57:17,157 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 17:57:21,797 - INFO - Found duration in video-time-hidden: 11.4 minutes
+2025-09-04 17:57:21,866 - INFO - Found duration in video-time-hidden: 5.8 minutes
+2025-09-04 17:57:26,861 - INFO - Found duration in video-time-hidden: 7.2 minutes
+2025-09-04 17:57:28,378 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:57:28,841 - INFO - Found duration in video-time-hidden: 5.9 minutes
+2025-09-04 17:57:29,303 - INFO - Found duration in video-time-hidden: 5.6 minutes
+2025-09-04 17:57:34,245 - INFO - Found duration in video-time-hidden: 7.1 minutes
+2025-09-04 17:57:38,722 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 17:57:38,841 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 17:57:39,276 - INFO - Found duration in video-time-hidden: 8.3 minutes
+2025-09-04 17:57:44,382 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 17:57:48,683 - INFO - Found duration in video-time-hidden: 5.4 minutes
+2025-09-04 17:57:48,685 - INFO - Found duration in video-time-hidden: 7.3 minutes
+2025-09-04 17:57:48,697 - INFO - Found duration in video-time-hidden: 3.9 minutes
+2025-09-04 17:57:53,036 - INFO - Found duration in video-time-hidden: 8.7 minutes
+2025-09-04 17:57:55,409 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 17:57:55,546 - INFO - Found duration in video-time-hidden: 7.8 minutes
+2025-09-04 17:57:56,366 - INFO - Found duration in video-time-hidden: 3.6 minutes
+2025-09-04 17:57:58,468 - INFO - Found duration in video-time-hidden: 8.4 minutes
+2025-09-04 17:58:02,297 - INFO - Found duration in video-time-hidden: 9.4 minutes
+2025-09-04 17:58:03,420 - INFO - Found duration in video-time-hidden: 9.2 minutes
+2025-09-04 17:58:03,471 - INFO - Found duration in video-time-hidden: 8.4 minutes
+2025-09-04 17:58:04,586 - INFO - Found duration in video-time-hidden: 8.4 minutes
+2025-09-04 17:58:08,584 - INFO - Found duration in video-time-hidden: 2.3 minutes
+2025-09-04 17:58:11,936 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 17:58:12,128 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 17:58:12,155 - INFO - Found duration in video-time-hidden: 3.3 minutes
+2025-09-04 17:58:15,702 - INFO - Found duration in video-time-hidden: 9.8 minutes
+2025-09-04 17:58:18,528 - INFO - Found duration in video-time-hidden: 6.7 minutes
+2025-09-04 17:58:19,389 - INFO - Found duration in video-time-hidden: 10.1 minutes
+2025-09-04 17:58:20,081 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 17:58:23,277 - INFO - Found duration in video-time-hidden: 2.6 minutes
+2025-09-04 17:58:24,165 - INFO - Found duration in video-time-hidden: 5.3 minutes
+2025-09-04 17:58:27,024 - INFO - Found duration in video-time-hidden: 7.5 minutes
+2025-09-04 17:58:27,060 - INFO - Found duration in video-time-hidden: 5.9 minutes
+2025-09-04 17:58:32,791 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 17:58:32,898 - INFO - Found duration in video-time-hidden: 10.5 minutes
+2025-09-04 17:58:35,106 - INFO - Found duration in video-time-hidden: 7.8 minutes
+2025-09-04 17:58:36,089 - INFO - Found duration in video-time-hidden: 4.8 minutes
+2025-09-04 17:58:38,657 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 17:58:39,761 - INFO - Found duration in video-time-hidden: 10.6 minutes
+2025-09-04 17:58:41,519 - INFO - Found duration in video-time-hidden: 11.3 minutes
+2025-09-04 17:58:42,702 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 17:58:47,400 - INFO - Found duration in video-time-hidden: 11.6 minutes
+2025-09-04 17:58:47,897 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 17:58:49,748 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 17:58:50,030 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 17:58:57,116 - INFO - Found duration in video-time-hidden: 12.3 minutes
+2025-09-04 17:58:57,364 - INFO - Found duration in video-time-hidden: 10.1 minutes
+2025-09-04 17:58:58,702 - INFO - Found duration in video-time-hidden: 7.6 minutes
+2025-09-04 17:58:59,921 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 17:59:03,751 - INFO - Found duration in video-time-hidden: 4.8 minutes
+2025-09-04 17:59:05,449 - INFO - Found duration in video-time-hidden: 5.9 minutes
+2025-09-04 17:59:06,010 - INFO - Found duration in video-time-hidden: 6.0 minutes
+2025-09-04 17:59:08,969 - INFO - Found duration in video-time-hidden: 3.3 minutes
+2025-09-04 17:59:11,627 - INFO - Found duration in video-time-hidden: 5.7 minutes
+2025-09-04 17:59:12,187 - INFO - Found duration in video-time-hidden: 2.2 minutes
+2025-09-04 17:59:13,735 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 17:59:15,588 - INFO - Found duration in video-time-hidden: 6.1 minutes
+2025-09-04 17:59:19,495 - INFO - Found duration in video-time-hidden: 3.0 minutes
+2025-09-04 17:59:19,721 - INFO - Found duration in video-time-hidden: 4.4 minutes
+2025-09-04 17:59:22,859 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 17:59:23,864 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 17:59:26,444 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 17:59:28,170 - INFO - Worker 0 completed (28/28 successful). Progress: 28/113 (24.8%). ETA: 0:13:20.378824
+2025-09-04 17:59:28,439 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 17:59:29,565 - INFO - Worker 3 completed (28/28 successful). Progress: 56/113 (49.6%). ETA: 0:04:29.782721
+2025-09-04 17:59:30,316 - INFO - Found duration in video-time-hidden: 7.1 minutes
+2025-09-04 17:59:30,956 - INFO - Found duration in video-time-hidden: 4.3 minutes
+2025-09-04 17:59:32,795 - INFO - Worker 1 completed (28/28 successful). Progress: 84/113 (74.3%). ETA: 0:01:32.620215
+2025-09-04 17:59:32,801 - INFO - Worker 2 completed (28/28 successful). Progress: 112/113 (99.1%). ETA: 0:00:02.395404
+2025-09-04 17:59:32,807 - INFO - Successfully updated 112/113 resources in output/foundation_7_resources.json. Time taken: 0:04:28.291574
+2025-09-04 17:59:32,831 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 17:59:32,831 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 17:59:32,831 - INFO - Successfully updated 112/113 total resources
+2025-09-04 17:59:32,831 - INFO - Total time taken: 0:04:28.317817
+2025-09-04 17:59:32,832 - INFO - Processing rate: 0.42 resources/second
+2025-09-04 17:59:47,744 - INFO - Starting optimized processing with 4 workers
+2025-09-04 17:59:47,745 - INFO - Settings: delay=0.5s, timeout=10s
+2025-09-04 17:59:47,745 - INFO - Processing file: output/foundation_8_resources.json with 4 workers
+2025-09-04 17:59:47,746 - INFO - Processing 59 resources (only missing or fallback estimated_time values)
+2025-09-04 17:59:47,747 - INFO - Starting 4 workers to process 59 resources
+2025-09-04 17:59:47,755 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:59:47,756 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:59:47,756 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:59:47,757 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 17:59:51,087 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:59:51,175 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:59:51,215 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 17:59:51,236 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:00:02,342 - INFO - Found duration in video-time-hidden: 3.2 minutes
+2025-09-04 18:00:04,770 - INFO - Found duration in video-time-hidden: 6.8 minutes
+2025-09-04 18:00:05,112 - INFO - Found duration in video-time-hidden: 2.5 minutes
+2025-09-04 18:00:05,914 - INFO - Found duration in video-time-hidden: 9.6 minutes
+2025-09-04 18:00:15,612 - INFO - Found duration in video-time-hidden: 7.3 minutes
+2025-09-04 18:00:15,719 - INFO - Found duration in video-time-hidden: 7.9 minutes
+2025-09-04 18:00:16,417 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 18:00:16,495 - INFO - Found duration in video-time-hidden: 3.2 minutes
+2025-09-04 18:00:22,282 - INFO - Found duration in video-time-hidden: 4.8 minutes
+2025-09-04 18:00:23,932 - INFO - Found duration in video-time-hidden: 7.8 minutes
+2025-09-04 18:00:24,303 - INFO - Found duration in video-time-hidden: 3.9 minutes
+2025-09-04 18:00:24,483 - INFO - Found duration in video-time-hidden: 5.0 minutes
+2025-09-04 18:00:31,045 - INFO - Found duration in video-time-hidden: 5.2 minutes
+2025-09-04 18:00:31,437 - INFO - Found duration in video-time-hidden: 3.6 minutes
+2025-09-04 18:00:31,652 - INFO - Found duration in video-time-hidden: 12.3 minutes
+2025-09-04 18:00:31,775 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 18:00:42,157 - INFO - Found duration in video-time-hidden: 14.7 minutes
+2025-09-04 18:00:42,166 - INFO - Found duration in video-time-hidden: 2.8 minutes
+2025-09-04 18:00:42,182 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 18:00:42,730 - INFO - Found duration in video-time-hidden: 3.6 minutes
+2025-09-04 18:00:48,060 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 18:00:50,488 - INFO - Found duration in video-time-hidden: 2.3 minutes
+2025-09-04 18:00:54,485 - INFO - Found duration in video-time-hidden: 3.2 minutes
+2025-09-04 18:00:54,875 - INFO - Found duration in video-time-hidden: 8.7 minutes
+2025-09-04 18:01:00,472 - INFO - Found duration in video-time-hidden: 9.9 minutes
+2025-09-04 18:01:04,661 - INFO - Found duration in video-time-hidden: 3.7 minutes
+2025-09-04 18:01:07,049 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 18:01:07,189 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 18:01:08,062 - INFO - Found duration in video-time-hidden: 11.5 minutes
+2025-09-04 18:01:13,636 - INFO - Found duration in video-time-hidden: 8.7 minutes
+2025-09-04 18:01:15,442 - INFO - Found duration in video-time-hidden: 8.1 minutes
+2025-09-04 18:01:15,827 - INFO - Found duration in video-time-hidden: 9.6 minutes
+2025-09-04 18:01:15,855 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 18:01:23,591 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 18:01:27,375 - INFO - Found duration in video-time-hidden: 11.5 minutes
+2025-09-04 18:01:27,486 - INFO - Found duration in video-time-hidden: 2.2 minutes
+2025-09-04 18:01:27,707 - INFO - Found duration in video-time-hidden: 3.2 minutes
+2025-09-04 18:01:33,397 - INFO - Found duration in video-time-hidden: 4.1 minutes
+2025-09-04 18:01:40,110 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 18:01:40,398 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 18:01:40,626 - INFO - Found duration in video-time-hidden: 4.4 minutes
+2025-09-04 18:01:48,005 - INFO - Found duration in video-time-hidden: 7.9 minutes
+2025-09-04 18:01:50,866 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 18:01:51,516 - INFO - Found duration in video-time-hidden: 5.5 minutes
+2025-09-04 18:01:51,983 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 18:01:58,153 - INFO - Found duration in video-time-hidden: 3.4 minutes
+2025-09-04 18:01:58,167 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 18:01:59,230 - INFO - Found duration in video-time-hidden: 6.2 minutes
+2025-09-04 18:02:00,937 - INFO - Found duration in video-time-hidden: 6.2 minutes
+2025-09-04 18:02:13,016 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 18:02:13,017 - INFO - Found duration in video-time-hidden: 7.2 minutes
+2025-09-04 18:02:13,021 - INFO - Found duration in video-time-hidden: 3.4 minutes
+2025-09-04 18:02:13,023 - INFO - Found duration in video-time-hidden: 3.9 minutes
+2025-09-04 18:02:20,002 - INFO - Worker 0 completed (14/14 successful). Progress: 14/59 (23.7%). ETA: 0:08:09.347196
+2025-09-04 18:02:21,654 - INFO - Article word count: 578 (selector: body), estimated time: 3.2 minutes
+2025-09-04 18:02:22,065 - INFO - Worker 3 completed (14/14 successful). Progress: 28/59 (47.5%). ETA: 0:02:50.852746
+2025-09-04 18:02:32,419 - INFO - Found duration in video-time-hidden: 3.4 minutes
+2025-09-04 18:02:32,696 - INFO - Found duration in video-time-hidden: 4.3 minutes
+2025-09-04 18:02:34,954 - INFO - Worker 2 completed (14/14 successful). Progress: 42/59 (71.2%). ETA: 0:01:07.679252
+2025-09-04 18:02:34,979 - INFO - Worker 1 completed (14/14 successful). Progress: 56/59 (94.9%). ETA: 0:00:08.958879
+2025-09-04 18:02:34,995 - INFO - Successfully updated 56/59 resources in output/foundation_8_resources.json. Time taken: 0:02:47.247914
+2025-09-04 18:02:35,033 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 18:02:35,035 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 18:02:35,036 - INFO - Successfully updated 56/59 total resources
+2025-09-04 18:02:35,036 - INFO - Total time taken: 0:02:47.290370
+2025-09-04 18:02:35,036 - INFO - Processing rate: 0.35 resources/second
+2025-09-04 18:02:56,414 - INFO - Starting optimized processing with 4 workers
+2025-09-04 18:02:56,414 - INFO - Settings: delay=0.5s, timeout=10s
+2025-09-04 18:02:56,414 - INFO - Processing file: output/foundation_9_resources.json with 4 workers
+2025-09-04 18:02:56,421 - INFO - Processing 33 resources (only missing or fallback estimated_time values)
+2025-09-04 18:02:56,422 - INFO - Starting 4 workers to process 33 resources
+2025-09-04 18:02:56,427 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:02:56,430 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:02:56,432 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:02:56,434 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:02:58,470 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:02:58,529 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:02:58,546 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:02:58,572 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:03:04,235 - INFO - Article word count: 575 (selector: body), estimated time: 3.2 minutes
+2025-09-04 18:03:10,363 - INFO - Found duration in video-time-hidden: 4.2 minutes
+2025-09-04 18:03:10,437 - INFO - Found duration in video-time-hidden: 8.2 minutes
+2025-09-04 18:03:10,479 - INFO - Found duration in video-time-hidden: 3.6 minutes
+2025-09-04 18:03:13,607 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 18:03:15,344 - INFO - Article word count: 575 (selector: body), estimated time: 3.2 minutes
+2025-09-04 18:03:21,779 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 18:03:23,021 - INFO - Found duration in video-time-hidden: 4.3 minutes
+2025-09-04 18:03:23,963 - INFO - Found duration in video-time-hidden: 9.5 minutes
+2025-09-04 18:03:25,921 - INFO - Found duration in video-time-hidden: 9.0 minutes
+2025-09-04 18:03:27,177 - INFO - Article word count: 575 (selector: body), estimated time: 3.2 minutes
+2025-09-04 18:03:29,927 - INFO - Found duration in video-time-hidden: 4.9 minutes
+2025-09-04 18:03:31,002 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 18:03:33,298 - INFO - Found duration in video-time-hidden: 7.8 minutes
+2025-09-04 18:03:33,996 - INFO - Found duration in video-time-hidden: 5.3 minutes
+2025-09-04 18:03:38,141 - INFO - Found duration in video-time-hidden: 5.7 minutes
+2025-09-04 18:03:39,499 - INFO - Found duration in video-time-hidden: 2.5 minutes
+2025-09-04 18:03:44,182 - INFO - Found duration in video-time-hidden: 5.8 minutes
+2025-09-04 18:03:44,248 - INFO - Found duration in video-time-hidden: 5.8 minutes
+2025-09-04 18:03:50,108 - INFO - Found duration in video-time-hidden: 4.6 minutes
+2025-09-04 18:03:51,365 - INFO - Found duration in video-time-hidden: 3.0 minutes
+2025-09-04 18:03:54,414 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 18:03:54,773 - INFO - Found duration in video-time-hidden: 3.1 minutes
+2025-09-04 18:03:59,933 - INFO - Found duration in video-time-hidden: 2.8 minutes
+2025-09-04 18:04:01,200 - INFO - Found duration in video-time-hidden: 1.6 minutes
+2025-09-04 18:04:03,403 - INFO - Found duration in video-time-hidden: 7.6 minutes
+2025-09-04 18:04:03,470 - INFO - Found duration in video-time-hidden: 7.7 minutes
+2025-09-04 18:04:08,136 - INFO - Found duration in video-time-hidden: 8.0 minutes
+2025-09-04 18:04:09,424 - INFO - Found duration in video-time-hidden: 6.0 minutes
+2025-09-04 18:04:11,024 - INFO - Worker 3 completed (8/8 successful). Progress: 8/33 (24.2%). ETA: 0:03:53.130203
+2025-09-04 18:04:11,651 - INFO - Found duration in video-time-hidden: 10.6 minutes
+2025-09-04 18:04:11,720 - INFO - Found duration in video-time-hidden: 7.0 minutes
+2025-09-04 18:04:11,943 - INFO - Worker 2 completed (8/8 successful). Progress: 16/33 (48.5%). ETA: 0:01:20.240812
+2025-09-04 18:04:11,965 - INFO - Worker 1 completed (8/8 successful). Progress: 24/33 (72.7%). ETA: 0:00:28.328593
+2025-09-04 18:04:16,439 - INFO - Found duration in video-time-hidden: 4.2 minutes
+2025-09-04 18:04:16,904 - INFO - Worker 0 completed (8/8 successful). Progress: 32/33 (97.0%). ETA: 0:00:02.515060
+2025-09-04 18:04:17,334 - INFO - Successfully updated 32/35 resources in output/foundation_9_resources.json. Time taken: 0:01:20.912028
+2025-09-04 18:04:17,346 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 18:04:17,346 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 18:04:17,346 - INFO - Successfully updated 32/35 total resources
+2025-09-04 18:04:17,346 - INFO - Total time taken: 0:01:20.931811
+2025-09-04 18:04:17,347 - INFO - Processing rate: 0.43 resources/second
+2025-09-04 18:04:30,697 - INFO - Starting optimized processing with 4 workers
+2025-09-04 18:04:30,697 - INFO - Settings: delay=0.5s, timeout=10s
+2025-09-04 18:04:30,697 - INFO - Processing file: output/foundation_10_resources.json with 4 workers
+2025-09-04 18:04:30,889 - INFO - Processing 13 resources (only missing or fallback estimated_time values)
+2025-09-04 18:04:30,889 - INFO - Starting 4 workers to process 13 resources
+2025-09-04 18:04:31,043 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:04:31,045 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:04:31,047 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:04:31,048 - INFO - Using ChromeDriver at: /home/hhouse/.wdm/drivers/chromedriver/linux64/140.0.7339.80/chromedriver-linux64/chromedriver
+2025-09-04 18:04:32,798 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:04:33,473 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:04:33,778 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:04:33,804 - INFO - Chrome WebDriver initialized successfully
+2025-09-04 18:04:46,577 - INFO - Found duration in video-time-hidden: 3.2 minutes
+2025-09-04 18:04:46,625 - INFO - Found duration in video-time-hidden: 4.5 minutes
+2025-09-04 18:04:46,886 - INFO - Found duration in video-time-hidden: 7.5 minutes
+2025-09-04 18:04:48,454 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 18:04:55,873 - INFO - Found duration in video-time-hidden: 6.5 minutes
+2025-09-04 18:04:55,933 - INFO - Found duration in video-time-hidden: 5.2 minutes
+2025-09-04 18:04:58,431 - INFO - Found duration in video-time-hidden: 4.0 minutes
+2025-09-04 18:04:59,306 - INFO - Found duration in video-time-hidden: 6.6 minutes
+2025-09-04 18:05:06,403 - INFO - Found duration in video-time-hidden: 6.3 minutes
+2025-09-04 18:05:06,498 - INFO - Found duration in video-time-hidden: 6.0 minutes
+2025-09-04 18:05:12,602 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 18:05:14,748 - INFO - Found duration in video-time-hidden: 3.5 minutes
+2025-09-04 18:05:32,598 - INFO - Worker 3 completed (3/3 successful). Progress: 3/13 (23.1%). ETA: 0:03:25.695740
+2025-09-04 18:05:32,618 - INFO - Worker 2 completed (3/3 successful). Progress: 6/13 (46.2%). ETA: 0:01:12.016400
+2025-09-04 18:05:32,621 - INFO - Worker 0 completed (3/3 successful). Progress: 9/13 (69.2%). ETA: 0:00:27.436212
+2025-09-04 18:05:32,632 - INFO - Worker 1 completed (3/3 successful). Progress: 12/13 (92.3%). ETA: 0:00:05.145203
+2025-09-04 18:05:32,634 - INFO - Successfully updated 12/13 resources in output/foundation_10_resources.json. Time taken: 0:01:01.744503
+2025-09-04 18:05:32,643 - INFO - Debug logs merged into video_durations_debug.log and article_wordcount_debug.log
+2025-09-04 18:05:32,644 - INFO - 
+=== PROCESSING COMPLETE ===
+2025-09-04 18:05:32,644 - INFO - Successfully updated 12/13 total resources
+2025-09-04 18:05:32,645 - INFO - Total time taken: 0:01:01.946588
+2025-09-04 18:05:32,645 - INFO - Processing rate: 0.21 resources/second
