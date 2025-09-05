@@ -1,0 +1,164 @@
+:root {
+  --primary-bg: #f8f9fa;
+  --secondary-bg: #ffffff;
+  --border-color: #dee2e6;
+  --text-color: #212529;
+  --link-color: #007bff;
+  --hover-bg: #e9ecef;
+  --accent-color: #0056b3;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--primary-bg);
+  color: var(--text-color);
+}
+
+.App {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 2rem;
+  background-color: var(--secondary-bg);
+  border-bottom: 1px solid var(--border-color);
+  font-size: 1.5rem;
+  font-weight: 600;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.main-content {
+  display: flex;
+  width: 100%;
+  padding-top: 70px; /* Height of the header */
+}
+
+/* --- Left Pane: Binder View --- */
+.binder-view {
+  flex: 0 0 300px;
+  background-color: var(--secondary-bg);
+  border-right: 1px solid var(--border-color);
+  padding: 1.5rem;
+  overflow-y: auto;
+}
+
+.binder-view h2 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: var(--accent-color);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.binder-view h2:first-of-type {
+  margin-top: 0;
+}
+
+.binder-view ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.binder-view li {
+  padding: 0.6rem 0.8rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s ease-in-out;
+  font-size: 0.95rem;
+}
+
+.binder-view li:hover {
+  background-color: var(--hover-bg);
+}
+
+.binder-view li.selected {
+  background-color: var(--link-color);
+  color: white;
+  font-weight: 500;
+}
+
+
+/* --- Right Pane: Resources View --- */
+.resources-view {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.resources-view h3 {
+  margin-top: 0;
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.placeholder, .loading, .error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: #6c757d;
+  font-size: 1.2rem;
+}
+
+.resource-list {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.resource-card {
+  background-color: var(--secondary-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.resource-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.resource-card h4 {
+  margin: 0 0 0.5rem 0;
+}
+
+.resource-card h4 a {
+  text-decoration: none;
+  color: var(--link-color);
+  font-size: 1.1rem;
+}
+
+.resource-card h4 a:hover {
+  text-decoration: underline;
+}
+
+.resource-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+.resource-type {
+  background-color: var(--hover-bg);
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-weight: 500;
+}

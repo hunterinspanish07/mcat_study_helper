@@ -1,0 +1,107 @@
+{
+  "title": "Academic Study Guide",
+  "sections": [
+    {
+      "title": "General Chemistry",
+      "subtopics": [
+        "Atomic Structure",
+        "The Periodic Table",
+        "Bonding and Chemical Interactions",
+        "Compounds and Stoichiometry",
+        "Chemical Kinetics",
+        "Equilibrium",
+        "Thermochemistry",
+        "The Gas Phase",
+        "Solutions",
+        "Acids and Bases",
+        "Oxidation-Reduction Reactions",
+        "Electrochemistry"
+      ]
+    },
+    {
+      "title": "Biology",
+      "subtopics": [
+        "The Cell",
+        "Reproduction",
+        "Embryogenesis and Development",
+        "Nervous System",
+        "Endocrine System",
+        "Respiratory System",
+        "Cardiovascular System",
+        "Immune System",
+        "Digestive System",
+        "Kidney and Skin",
+        "Muscular System",
+        "Genetics and Evolution"
+      ]
+    },
+    {
+      "title": "Organic Chemistry",
+      "subtopics": [
+        "Nomenclature",
+        "Isomers",
+        "Bonding",
+        "Analyzing Organic Reactions",
+        "Alcohols",
+        "Aldehydes and Ketones I",
+        "Aldehydes and Ketones II",
+        "Carboxylic Acids",
+        "Carboxylic Acid Derivatives",
+        "N- and P-Containing Compounds",
+        "Spectroscopy",
+        "Separations and Purifications"
+      ]
+    },
+    {
+      "title": "Biochemistry",
+      "subtopics": [
+        "Amino Acids, Peptides, and Proteins",
+        "Enzymes",
+        "Nonenzymatic Protein Function & Protein Analysis",
+        "Carbohydrate Structure and Function",
+        "Lipid Structure and Function",
+        "DNA and Biotechnology",
+        "RNA and the Genetic Code",
+        "Biological Membranes",
+        "Carbohydrate Metabolism I",
+        "Carbohydrate Metabolism II",
+        "Lipid and Amino Acid Metabolism",
+        "Bioenergetics and Regulation of Metabolism"
+      ]
+    },
+    {
+      "title": "Behavioral Sciences",
+      "subtopics": [
+        "Biology and Behavior",
+        "Sensation and Perception",
+        "Learning and Memory",
+        "Cognition, Consciousness, and Language",
+        "Motivation, Emotion, and Stress",
+        "Identity and Personality",
+        "Psychological Disorders",
+        "Social Processes, Attitudes, and Behavior",
+        "Social Interaction",
+        "Social Thinking",
+        "Social Structure and Demographics",
+        "Social Stratification"
+      ]
+    },
+    {
+      "title": "Physics and Math",
+      "subtopics": [
+        "Kinematics and Dynamics",
+        "Work and Energy",
+        "Thermodynamics",
+        "Fluids",
+        "Electrostatics and Magnetism",
+        "Circuits",
+        "Waves and Sound",
+        "Light and Optics",
+        "Atomic and Nuclear Phenomena",
+        "Mathematics",
+        "Design and Execution of Research",
+        "Data-Based and Statistical Reasoning"
+      ]
+    }
+  ]
+}
