@@ -32,11 +32,25 @@ const BinderView = ({ binderData, onTopicClick, selectedTopic }) => {
 // --- Right Pane: Individual Components ---
 
 // New: A dedicated component for the slide-out search pane
+// --- Right Pane: Individual Components ---
+
+// New: A dedicated component for the slide-out search pane
 const SearchPane = ({ selectedTopic, subtopic, onSubtopicSearch }) => {
+  // 1. Add local state to manage the input's value directly.
+  const [inputValue, setInputValue] = useState(subtopic);
+
+  // 2. This effect ensures the input field clears if the parent's `subtopic` state is reset
+  // (e.g., when a new main topic is clicked).
+  useEffect(() => {
+    setInputValue(subtopic);
+  }, [subtopic]);
+
   const handleSubmit = (e) => {
     e.preventDefault();
-    const searchInput = e.target.elements.subtopic.value;
-    onSubtopicSearch(searchInput);
+    // 3. Pass the current input value (from state) to the search function.
+    onSubtopicSearch(inputValue);
+    // 4. Clear the local state, which in turn clears the input field.
+    setInputValue('');
   };
 
   return (
@@ -44,11 +58,13 @@ const SearchPane = ({ selectedTopic, subtopic, onSubtopicSearch }) => {
       <h3>Refine Search</h3>
       <p>Current Topic: <strong>{selectedTopic}</strong></p>
       <form onSubmit={handleSubmit} className="subtopic-search">
-        <input 
-          type="text" 
-          name="subtopic" 
+        <input
+          type="text"
+          name="subtopic"
           placeholder="e.g., Mitosis, Acids..."
-          defaultValue={subtopic}
+          // 5. Change from `defaultValue` to `value` and add an `onChange` handler.
+          value={inputValue}
+          onChange={(e) => setInputValue(e.target.value)}
           autoFocus
         />
         <button type="submit">Find!</button>
@@ -168,7 +184,7 @@ function App() {
     const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
     console.log("Using API URL:", baseUrl);
     const apiUrl = `${baseUrl}/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(combinedTopic)}&limit=8`;
-
+    
     try {
       const response = await fetch(apiUrl);
       if (!response.ok) {
