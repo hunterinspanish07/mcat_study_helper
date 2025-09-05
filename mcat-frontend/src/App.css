@@ -1,5 +1,6 @@
-/* --- 1. Import Font & Define Color Palette --- */
+/* --- 1. Import Fonts & Icons --- */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css');
 
 :root {
   --bg-main: #f4f7f9;
@@ -25,7 +26,11 @@ body {
 .App {
   display: flex;
   height: 100vh;
+  width: 100vw;
   overflow: hidden;
+  position: fixed; /* Ensure it takes up the full viewport */
+  top: 0;
+  left: 0;
 }
 
 header {
@@ -46,12 +51,14 @@ header {
 .main-content {
   display: flex;
   width: 100%;
+  height: 100%;
   padding-top: 70px; /* Height of the header */
+  flex: 1;
 }
 
 /* --- 2. Left Pane: Binder View --- */
 .binder-view {
-  flex: 0 0 320px; /* Slightly wider */
+  flex: 0 0 25%; /* Enlarged topic menu */
   background-color: var(--bg-panel);
   border-right: 1px solid var(--border-color);
   padding: 1.5rem 0.5rem 1.5rem 1.5rem; /* Adjust padding */
@@ -105,22 +112,28 @@ header {
 /* --- 3. Right Pane: Resources View --- */
 .resources-view {
   flex: 1;
-  padding: 2rem 3rem; /* More horizontal padding */
-  overflow-y: auto;
+  padding: 2rem 3rem;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .resources-view h3 {
-  margin: 0 0 2rem 0;
+  margin: 0;
   font-size: 2rem;
   font-weight: 600;
 }
 
-.placeholder, .loading, .error {
+.placeholder {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: calc(100% - 70px);
+  height: 100%; /* Changed from calc */
   color: var(--text-secondary);
   font-size: 1.2rem;
   text-align: center;
@@ -130,10 +143,26 @@ header {
   font-weight: 600;
 }
 
+.resource-list-wrapper {
+  flex: 1; /* Takes up all remaining vertical space */
+  overflow-y: auto; /* This container scrolls */
+  min-height: 0; /* Critical fix for scrolling in flexbox */
+  padding-right: 1rem; /* Avoids content hiding under scrollbar */
+  /* Ensure this wrapper takes full available height */
+  display: flex; /* Added to make its child (resource-list) stretch */
+  flex-direction: column; /* Added for correct stretching */
+}
+
 .resource-list {
   display: grid;
-  gap: 1.5rem;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  align-content: start;
+  padding-bottom: 2rem; /* Add some bottom padding for scrolling */
+  box-sizing: border-box;
 }
 
 .resource-card {
@@ -143,6 +172,11 @@ header {
   padding: 1.25rem;
   box-shadow: 0 2px 4px rgba(0,0,0,0.04);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  height: 100%; /* Card fills its grid cell's height */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 140px; /* Add a minimum height to prevent cards from becoming too small */
 }
 
 .resource-card:hover {
@@ -172,12 +206,20 @@ header {
 }
 
 .resource-type {
-  background-color: var(--accent-secondary);
   color: var(--accent-primary);
-  padding: 0.25rem 0.75rem;
-  border-radius: 9999px; /* Pill shape */
-  font-weight: 600;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: var(--accent-secondary);
+  transition: transform 0.2s ease;
+}
+
+.resource-type:hover {
+  transform: scale(1.1);
 }
 
 /* --- 4. General Polish: Custom Scrollbar --- */
@@ -197,4 +239,120 @@ header {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: #a0aec0;
+}
+/* --- 5. Styles for Collapsible Search Bar --- */
+
+.search-container {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2rem;
+  max-height: 300px; /* Set a max-height for the animation */
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out,
+              padding-bottom 0.4s ease-in-out,
+              margin-bottom 0.4s ease-in-out,
+              opacity 0.3s ease-in-out,
+              border-color 0.4s ease-in-out;
+}
+
+.search-container.collapsed {
+  max-height: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  opacity: 0;
+  border-bottom-color: transparent;
+}
+
+.search-pane {
+  position: relative; /* For positioning child elements if needed */
+}
+
+.search-pane-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.toggle-search-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: var(--text-secondary);
+  padding: 0.5rem;
+  line-height: 1;
+  transition: color 0.2s;
+}
+
+.toggle-search-btn:hover {
+  color: var(--text-primary);
+}
+
+.search-pane p {
+  color: var(--text-secondary);
+  margin-top: 0;
+}
+
+.search-pane small {
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+}
+
+.subtopic-search {
+  margin: 1.5rem 0;
+  display: flex; /* Horizontal layout */
+  gap: 1rem;
+}
+
+.subtopic-search input {
+  flex: 1; /* Input grows to fill space */
+  width: auto;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  box-sizing: border-box; /* Important for correct width */
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.subtopic-search input:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px var(--accent-secondary);
+}
+
+.subtopic-search button {
+  width: auto; /* Button has its own width */
+  margin-top: 0;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background-color: var(--accent-primary);
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.subtopic-search button:hover {
+  background-color: #2b6cb0; /* A slightly darker blue */
+}
+
+
+/* A simple spinner for loading state */
+.loading-spinner {
+  border: 4px solid var(--bg-main);
+  border-top: 4px solid var(--accent-primary);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 4rem auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }

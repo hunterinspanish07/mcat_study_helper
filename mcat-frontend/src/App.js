@@ -2,26 +2,21 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 
 // --- Left Pane: BinderView Component ---
-// UPDATED to handle the new JSON structure with a 'sections' array
 const BinderView = ({ binderData, onTopicClick, selectedTopic }) => {
-  // We now check for binderData.sections
   if (!binderData || !binderData.sections) {
     return <div className="binder-view">Loading binder...</div>;
   }
 
   return (
     <nav className="binder-view">
-      {/* We map over the 'sections' array instead of using Object.entries */}
       {binderData.sections.map((section) => (
         <div key={section.title}>
           <h2>{section.title}</h2>
           <ul>
-            {/* The topics are now in 'section.subtopics' */}
             {section.subtopics.map((topic) => (
               <li
                 key={topic}
                 className={selectedTopic === topic ? 'selected' : ''}
-                // We pass section.title as the subject
                 onClick={() => onTopicClick(section.title, topic)}
               >
                 {topic}
@@ -34,29 +29,86 @@ const BinderView = ({ binderData, onTopicClick, selectedTopic }) => {
   );
 };
 
-// --- Right Pane: ResourceCard Component ---
-const ResourceCard = ({ resource }) => (
-  <div className="resource-card">
-    <h4>
-      <a href={resource.resource_url} target="_blank" rel="noopener noreferrer">
-        {resource.resource_name}
-      </a>
-    </h4>
-    <div className="resource-meta">
-      <span>{resource.estimated_time}</span>
-      <span className="resource-type">{resource.resource_type}</span>
-    </div>
-  </div>
-);
+// --- Right Pane: Individual Components ---
 
-// --- Right Pane: ResourcesView Component ---
-const ResourcesView = ({ resources, isLoading, error, selectedTopic, onSubtopicSearch, subtopic }) => {
+// New: A dedicated component for the slide-out search pane
+const SearchPane = ({ selectedTopic, subtopic, onSubtopicSearch }) => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const searchInput = e.target.elements.subtopic.value;
+    onSubtopicSearch(searchInput);
+  };
+
+  return (
+    <div className="search-pane">
+      <h3>Refine Search</h3>
+      <p>Current Topic: <strong>{selectedTopic}</strong></p>
+      <form onSubmit={handleSubmit} className="subtopic-search">
+        <input 
+          type="text" 
+          name="subtopic" 
+          placeholder="e.g., Mitosis, Acids..."
+          defaultValue={subtopic}
+          autoFocus
+        />
+        <button type="submit">Find!</button>
+      </form>
+       <small>Press Enter with an empty box to search the main topic again.</small>
+    </div>
+  );
+};
+
+// New: A component to wrap the actual list of resources
+const ResourceList = ({ resources, isLoading, error }) => {
   if (isLoading) {
-    return <div className="resources-view loading">Finding resources...</div>;
+    return <div className="loading-spinner"></div>;
   }
   if (error) {
-    return <div className="resources-view error">Error: {error}</div>;
+    return <div className="error">Error: {error}</div>;
   }
+  if (resources.length > 0) {
+    return (
+      <div className="resource-list">
+        {resources.map((res) => (
+          <ResourceCard key={res._id} resource={res} />
+        ))}
+      </div>
+    );
+  }
+  return <p>No resources found for this search.</p>;
+};
+
+const ResourceCard = ({ resource }) => {
+  const getResourceIcon = (type) => {
+    switch(type.toLowerCase()) {
+      case 'video':
+        return <i className="fas fa-play-circle"></i>;
+      case 'article':
+        return <i className="fas fa-file-alt"></i>;
+      default:
+        return <i className="fas fa-book"></i>;
+    }
+  };
+
+  return (
+    <div className="resource-card">
+      <h4>
+        <a href={resource.resource_url} target="_blank" rel="noopener noreferrer">
+          {resource.resource_name}
+        </a>
+      </h4>
+      <div className="resource-meta">
+        <span>{resource.estimated_time}</span>
+        <span className="resource-type">
+          {getResourceIcon(resource.resource_type)}
+        </span>
+      </div>
+    </div>
+  );
+};
+
+// Updated: This now acts as the main controller for the right-hand side
+const ResourcesView = ({ resources, isLoading, error, selectedTopic, onSubtopicSearch, subtopic }) => {
   if (!selectedTopic) {
     return (
       <div className="resources-view placeholder">
@@ -65,36 +117,27 @@ const ResourcesView = ({ resources, isLoading, error, selectedTopic, onSubtopicS
     );
   }
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    const searchInput = e.target.elements.subtopic.value;
-    onSubtopicSearch(searchInput);
-  };
-
   return (
     <main className="resources-view">
-      <h3>Resources for "{selectedTopic}"</h3>
-      <form onSubmit={handleSubmit} className="subtopic-search">
-        <input 
-          type="text" 
-          name="subtopic" 
-          placeholder="Enter subtopic to refine search (optional)"
-          defaultValue={subtopic}
+      {/* This wrapper's class will control the animation */}
+      <div className={`resources-content-wrapper ${selectedTopic ? 'search-active' : ''}`}>
+        <SearchPane 
+          selectedTopic={selectedTopic}
+          subtopic={subtopic}
+          onSubtopicSearch={onSubtopicSearch}
         />
-        <button type="submit">Refine Search</button>
-      </form>
-      {resources.length > 0 ? (
-        <div className="resource-list">
-          {resources.map((res) => (
-            <ResourceCard key={res._id} resource={res} />
-          ))}
+        <div className="resource-list-wrapper">
+          <ResourceList 
+            resources={resources}
+            isLoading={isLoading}
+            error={error}
+          />
         </div>
-      ) : (
-        <p>No resources found for this topic.</p>
-      )}
+      </div>
     </main>
   );
 };
+
 
 // --- Main App Component ---
 function App() {
@@ -106,7 +149,6 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  // Fetch binder content once on component mount
   useEffect(() => {
     fetch('/binder_content.json')
       .then((res) => res.json())
@@ -114,12 +156,16 @@ function App() {
       .catch((err) => console.error("Failed to load binder content:", err));
   }, []);
 
+  // IMPORTANT: Updated fetch logic to combine topic and subtopic
   const fetchResources = async (subject, topic, subtopicValue = '') => {
     setIsLoading(true);
     setError(null);
     setResources([]);
 
-    const apiUrl = `http://localhost:8000/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}${subtopicValue ? `&subtopic=${encodeURIComponent(subtopicValue)}` : ''}&limit=8`;
+    // The API expects a single 'topic' string. We combine the binder topic and the subtopic.
+    const combinedTopic = subtopicValue ? `${topic} ${subtopicValue}` : topic;
+
+    const apiUrl = `http://localhost:8000/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(combinedTopic)}&limit=8`;
 
     try {
       const response = await fetch(apiUrl);
@@ -137,16 +183,17 @@ function App() {
     }
   };
 
-  const handleTopicClick = async (subject, topic) => {
+  const handleTopicClick = (subject, topic) => {
     setSelectedTopic(topic);
     setCurrentSubject(subject);
-    setSubtopic('');
-    await fetchResources(subject, topic);
+    setSubtopic(''); // Reset subtopic when a new main topic is clicked
+    fetchResources(subject, topic, '');
   };
 
-  const handleSubtopicSearch = async (newSubtopic) => {
+  const handleSubtopicSearch = (newSubtopic) => {
     setSubtopic(newSubtopic);
-    await fetchResources(currentSubject, selectedTopic, newSubtopic);
+    // Use currentSubject and selectedTopic from state to perform the refined search
+    fetchResources(currentSubject, selectedTopic, newSubtopic);
   };
 
   return (
