@@ -46,6 +46,7 @@ async def get_embedding(text: str) -> List[float]:
 async def find_resources(
     subject: str = Query(..., description="Subject area (e.g., Biology)"),
     topic: str = Query(..., description="Study topic to search for"),
+    subtopic: Optional[str] = Query(None, description="Optional subtopic for more specific search"),
     limit: Optional[int] = Query(default=5, ge=1, le=10, description="Number of results to return")
 ):
     """
@@ -59,8 +60,12 @@ async def find_resources(
     foundations = category_mapping[subject]
     
     try:
-        # Generate embedding for the search topic
-        topic_embedding = await get_embedding(topic)
+        # Generate embedding for the search query
+        search_text = topic
+        if subtopic:
+            search_text = f"{topic} {subtopic}"
+        
+        topic_embedding = await get_embedding(search_text)
         
         # Perform vector similarity search with subject filtering
         pipeline = [

@@ -50,7 +50,7 @@ const ResourceCard = ({ resource }) => (
 );
 
 // --- Right Pane: ResourcesView Component ---
-const ResourcesView = ({ resources, isLoading, error, selectedTopic }) => {
+const ResourcesView = ({ resources, isLoading, error, selectedTopic, onSubtopicSearch, subtopic }) => {
   if (isLoading) {
     return <div className="resources-view loading">Finding resources...</div>;
   }
@@ -65,9 +65,24 @@ const ResourcesView = ({ resources, isLoading, error, selectedTopic }) => {
     );
   }
 
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const searchInput = e.target.elements.subtopic.value;
+    onSubtopicSearch(searchInput);
+  };
+
   return (
     <main className="resources-view">
       <h3>Resources for "{selectedTopic}"</h3>
+      <form onSubmit={handleSubmit} className="subtopic-search">
+        <input 
+          type="text" 
+          name="subtopic" 
+          placeholder="Enter subtopic to refine search (optional)"
+          defaultValue={subtopic}
+        />
+        <button type="submit">Refine Search</button>
+      </form>
       {resources.length > 0 ? (
         <div className="resource-list">
           {resources.map((res) => (
@@ -84,8 +99,9 @@ const ResourcesView = ({ resources, isLoading, error, selectedTopic }) => {
 // --- Main App Component ---
 function App() {
   const [binderData, setBinderData] = useState(null);
-  // REMOVED unused 'selectedSubject' state to fix the warning
   const [selectedTopic, setSelectedTopic] = useState('');
+  const [currentSubject, setCurrentSubject] = useState('');
+  const [subtopic, setSubtopic] = useState('');
   const [resources, setResources] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -98,21 +114,17 @@ function App() {
       .catch((err) => console.error("Failed to load binder content:", err));
   }, []);
 
-  const handleTopicClick = async (subject, topic) => {
-    // REMOVED setSelectedSubject call
-    setSelectedTopic(topic);
+  const fetchResources = async (subject, topic, subtopicValue = '') => {
     setIsLoading(true);
     setError(null);
     setResources([]);
 
-    // The subject name might have '&' which needs to be encoded.
-    // Example: "Physics and Math" -> "Physics%20and%20Math"
-    const apiUrl = `http://localhost:8000/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}&limit=8`;
+    const apiUrl = `http://localhost:8000/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(topic)}${subtopicValue ? `&subtopic=${encodeURIComponent(subtopicValue)}` : ''}&limit=8`;
 
     try {
       const response = await fetch(apiUrl);
       if (!response.ok) {
-        const errorData = await response.json(); // Try to get more detail from API
+        const errorData = await response.json();
         throw new Error(`API Error: ${errorData.detail || response.statusText}`);
       }
       const data = await response.json();
@@ -123,6 +135,18 @@ function App() {
     } finally {
       setIsLoading(false);
     }
+  };
+
+  const handleTopicClick = async (subject, topic) => {
+    setSelectedTopic(topic);
+    setCurrentSubject(subject);
+    setSubtopic('');
+    await fetchResources(subject, topic);
+  };
+
+  const handleSubtopicSearch = async (newSubtopic) => {
+    setSubtopic(newSubtopic);
+    await fetchResources(currentSubject, selectedTopic, newSubtopic);
   };
 
   return (
@@ -139,6 +163,8 @@ function App() {
           isLoading={isLoading}
           error={error}
           selectedTopic={selectedTopic}
+          onSubtopicSearch={handleSubtopicSearch}
+          subtopic={subtopic}
         />
       </div>
     </div>
