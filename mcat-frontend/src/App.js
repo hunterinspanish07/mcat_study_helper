@@ -216,7 +216,7 @@ function App() {
 
   return (
     <div className="App">
-       <header>MCAT Study Tool</header>
+       <header>MCAT Khan Academy Fetch!</header>
        <div className="main-content">
         <BinderView 
           binderData={binderData} 
