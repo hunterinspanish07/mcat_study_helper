@@ -216,7 +216,10 @@ function App() {
 
   return (
     <div className="App">
-       <header>MCAT Khan Academy Fetch!</header>
+       <header>
+         <img src="/favicon.ico" alt="MCAT Logo" className="header-logo" />
+         <span>MCAT Khan Academy Fetch!</span>
+       </header>
        <div className="main-content">
         <BinderView 
           binderData={binderData} 
