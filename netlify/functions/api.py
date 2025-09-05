@@ -31,7 +31,7 @@ collection = db.khan_resources
 openai_client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Load category mapping
-with open("category_mapping.json") as f:
+with open(os.path.join(os.path.dirname(__file__), "../../category_mapping.json")) as f:
     category_mapping = json.load(f)
 
 async def get_embedding(text: str) -> List[float]:

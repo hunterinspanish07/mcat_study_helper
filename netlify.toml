@@ -1,0 +1,14 @@
+# Global build settings
+[build]
+  # The command to build your frontend app
+  command = "npm run build"
+  
+  # The directory where your frontend app is located.
+  # The build command will be run from here.
+  base = "mcat-frontend"
+  
+  # The directory with the build output, relative to the 'base' directory.
+  publish = "mcat-frontend/build"
+  
+  # The directory for your serverless functions, relative to the repository root.
+  functions = "netlify/functions"

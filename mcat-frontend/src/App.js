@@ -165,7 +165,9 @@ function App() {
     // The API expects a single 'topic' string. We combine the binder topic and the subtopic.
     const combinedTopic = subtopicValue ? `${topic} ${subtopicValue}` : topic;
 
-    const apiUrl = `http://localhost:8000/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(combinedTopic)}&limit=8`;
+    const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000';
+    console.log("Using API URL:", baseUrl);
+    const apiUrl = `${baseUrl}/find_resources?subject=${encodeURIComponent(subject)}&topic=${encodeURIComponent(combinedTopic)}&limit=8`;
 
     try {
       const response = await fetch(apiUrl);
