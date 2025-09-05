@@ -6,3 +6,6 @@ __pycache__
 output/foundation_5_resources.json
 output/foundation_5_resources.json
 output/foundation_6_resources.json
+
+# Local Netlify folder
+.netlify

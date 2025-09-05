@@ -9,6 +9,3 @@
   
   # The directory with the build output, relative to the 'base' directory.
   publish = "build"
-  
-  # The directory for your serverless functions, relative to the repository root.
-  functions = "netlify/functions"
