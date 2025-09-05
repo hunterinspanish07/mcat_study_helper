@@ -8,7 +8,7 @@
   base = "mcat-frontend"
   
   # The directory with the build output, relative to the 'base' directory.
-  publish = "mcat-frontend/build"
+  publish = "build"
   
   # The directory for your serverless functions, relative to the repository root.
   functions = "netlify/functions"
