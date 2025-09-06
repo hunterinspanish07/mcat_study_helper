@@ -13,7 +13,7 @@ const HowItWorksPage = () => {
 
         {/* Part 1: The Challenge */}
         <section className="challenge-section">
-          <h2>The Perfect Study Plan Meets the Perfect Video Library</h2>
+          <h2>Unlocking Khan Academy for Your MileDown Study</h2>
           <p>
             Two of the best free MCAT resources are{' '}
             <a 

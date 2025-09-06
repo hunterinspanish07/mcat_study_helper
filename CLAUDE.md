@@ -25,7 +25,7 @@ It will be positioned on the top-right, providing a balanced look opposite the m
 Clicking this button will navigate the user to a new /how-it-works route within the single-page application.
 Page Content & Structure: The page will be designed to be simple, scannable, and persuasive, telling a clear story in three parts.
 Part 1: The Challenge: Bridging Two Great Resources
-Headline: "The Perfect Study Plan Meets the Perfect Video Library."
+Headline: "Unlocking Khan Academy for Your MileDown Study."
 Body: Start by acknowledging the user's goal. Explain that two of the best free MCAT resources are MileDown's Anki Deck & PDF Notes and the official Khan Academy MCAT Course.
 The Problem: Clearly state the pain point: "MileDown gives you the perfect roadmap of what to study, but sometimes you need a deeper video explanation. Khan Academy has that explanation, but its course structure doesn't match MileDown's. You're left wasting precious study time searching for the right video, breaking your focus."
 Part 2: The Solution: Your Intelligent Study Assistant
