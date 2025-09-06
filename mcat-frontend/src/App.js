@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
+import HowItWorksPage from './HowItWorksPage';
 
 // --- Left Pane: BinderView Component ---
 const BinderView = ({ binderData, onTopicClick, selectedTopic }) => {
@@ -214,11 +216,19 @@ function App() {
     fetchResources(currentSubject, selectedTopic, newSubtopic);
   };
 
-  return (
+  // Create a component for the main application content
+  const MainApp = () => (
     <div className="App">
        <header>
-         <img src="/favicon.ico" alt="MCAT Logo" className="header-logo" />
-         <span>MCAT Khan Academy Fetch!</span>
+         <div className="header-left">
+           <img src="/favicon.ico" alt="MCAT Logo" className="header-logo" />
+           <span>MCAT Khan Academy Fetch!</span>
+         </div>
+         <div className="header-right">
+           <Link to="/how-it-works" className="how-it-works-link">
+             How It Works
+           </Link>
+         </div>
        </header>
        <div className="main-content">
         <BinderView 
@@ -236,6 +246,15 @@ function App() {
         />
       </div>
     </div>
+  );
+
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<MainApp />} />
+        <Route path="/how-it-works" element={<HowItWorksPage />} />
+      </Routes>
+    </Router>
   );
 }
 
