@@ -13,6 +13,8 @@ class SectionAnalysis:
     time_cap: Dict[str, Any]
     order_drift: Dict[str, Any]
     slow_wrong: Dict[str, Any]
+    decision_payoff: Dict[str, Any]
+    cars_context: Dict[str, Any]
 
 
 def _third_metrics(df: pd.DataFrame) -> Dict[str, Dict[str, float]]:
@@ -35,7 +37,29 @@ def _third_metrics(df: pd.DataFrame) -> Dict[str, Dict[str, float]]:
 def analyze_section(section_df: pd.DataFrame, rolling_window: int = 8) -> SectionAnalysis:
     section = str(section_df["section"].iloc[0])
 
-    sorted_by_time = section_df.sort_values("time_spent_sec").copy()
+    cars_anchor_threshold_sec = 240.0
+    cars_context = {
+        "anchor_threshold_sec": cars_anchor_threshold_sec,
+        "anchor_count": 0,
+        "anchors_excluded": False,
+        "avg_time_after_passage_sec": None,
+    }
+
+    cap_reference_df = section_df.copy()
+    if section == "CARS":
+        ordered_cars = section_df.sort_values("question_index").copy()
+        cars_anchor_mask = ordered_cars["time_spent_sec"] > cars_anchor_threshold_sec
+        anchor_count = int(cars_anchor_mask.sum())
+        post_read_df = ordered_cars[~cars_anchor_mask]
+        cars_context["anchor_count"] = anchor_count
+        cars_context["anchors_excluded"] = bool(anchor_count > 0 and len(post_read_df) > 0)
+        cars_context["avg_time_after_passage_sec"] = (
+            float(post_read_df["time_spent_sec"].mean()) if len(post_read_df) else None
+        )
+        if cars_context["anchors_excluded"]:
+            cap_reference_df = post_read_df
+
+    sorted_by_time = cap_reference_df.sort_values("time_spent_sec").copy()
     sorted_by_time["quartile"] = pd.qcut(
         sorted_by_time["time_spent_sec"], q=4, labels=["Q1", "Q2", "Q3", "Q4"], duplicates="drop"
     )
@@ -49,10 +73,10 @@ def analyze_section(section_df: pd.DataFrame, rolling_window: int = 8) -> Sectio
         .reset_index()
     )
 
-    median_time = float(section_df["time_spent_sec"].median())
+    median_time = float(cap_reference_df["time_spent_sec"].median())
     hard_cap = median_time * 1.2
-    below = section_df[section_df["time_spent_sec"] <= hard_cap]
-    above = section_df[section_df["time_spent_sec"] > hard_cap]
+    below = cap_reference_df[cap_reference_df["time_spent_sec"] <= hard_cap]
+    above = cap_reference_df[cap_reference_df["time_spent_sec"] > hard_cap]
     acc_below = float(below["is_correct"].mean()) if len(below) else 0.0
     acc_above = float(above["is_correct"].mean()) if len(above) else 0.0
 
@@ -64,6 +88,15 @@ def analyze_section(section_df: pd.DataFrame, rolling_window: int = 8) -> Sectio
         "is_cap_justified": acc_above <= acc_below,
         "below_cap_count": int(len(below)),
         "above_cap_count": int(len(above)),
+        "cap_reference_count": int(len(cap_reference_df)),
+    }
+
+    payoff_reference_df = cap_reference_df if section == "CARS" else section_df
+    time_over_cap_sec = float((payoff_reference_df["time_spent_sec"] - hard_cap).clip(lower=0).sum())
+    estimated_extra_questions = int(round(time_over_cap_sec / 300.0))
+    decision_payoff = {
+        "time_over_cap_sec": time_over_cap_sec,
+        "estimated_extra_questions": max(0, min(10, estimated_extra_questions)),
     }
 
     ordered = section_df.sort_values("question_index").copy()
@@ -101,6 +134,8 @@ def analyze_section(section_df: pd.DataFrame, rolling_window: int = 8) -> Sectio
         time_cap=time_cap,
         order_drift=order_drift,
         slow_wrong=slow_wrong,
+        decision_payoff=decision_payoff,
+        cars_context=cars_context,
     )
 
 

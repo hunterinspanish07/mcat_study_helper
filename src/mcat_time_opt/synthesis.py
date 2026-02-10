@@ -33,7 +33,9 @@ def synthesize(analyses: Dict[str, SectionAnalysis]) -> Dict[str, Any]:
         cap = a.time_cap
         hard_cap_rounded = _round_to_5(cap["hard_cap_sec"])
 
-        if cap["is_cap_justified"]:
+        if section == "CARS":
+            primary_rule = "9 minutes per passage, hard stop. Move even if the passage feels salvageable."
+        elif cap["is_cap_justified"]:
             primary_rule = f"Hard stop at {hard_cap_rounded}s in {section}. If unresolved, eliminate and guess immediately."
         else:
             primary_rule = f"Provisional cap at {hard_cap_rounded}s in {section}; monitor next session and tighten only if >cap accuracy stays flat."
@@ -51,9 +53,12 @@ def synthesize(analyses: Dict[str, SectionAnalysis]) -> Dict[str, Any]:
         findings = [
             f"{section}: peak quartile accuracy is {best_q['accuracy']:.1%} at ~{best_q['mean_time_sec']:.0f}s ({best_q['quartile']}).",
             f"{section}: accuracy <= cap is {cap['accuracy_below_cap']:.1%} vs > cap {cap['accuracy_above_cap']:.1%}.",
+            f"{section}: enforcing the cap likely frees ~{a.decision_payoff['estimated_extra_questions']} more questions worth of time.",
         ]
         if diminishing_returns:
             findings.append(f"{section}: accuracy plateaus/drops from Q3 to Q4, indicating diminishing returns.")
+        if section == "CARS":
+            findings.append("CARS: Q1 is expected to be slow due to passage reading; that is not a failure.")
 
         intervention = max(
             a.slow_wrong["slow_wrong_pct"],
@@ -75,6 +80,17 @@ def synthesize(analyses: Dict[str, SectionAnalysis]) -> Dict[str, Any]:
             "findings": findings,
             "rules": rules,
             "hard_cap_sec": hard_cap_rounded,
+            "failure_mode": (
+                "Lingering to 'save' hard items after the time cap."
+                if cap["is_cap_justified"] or section == "CARS"
+                else "Staying too long before a decision trigger appears."
+            ),
+            "reassurance": (
+                f"Your own data shows accuracy does not improve after ~{hard_cap_rounded}s."
+                if cap["is_cap_justified"]
+                else "Speed discipline is a trial behavior; reassess after the next exam."
+            ),
+            "counterfactual_payoff": f"If you had enforced this cap, you likely reach ~{a.decision_payoff['estimated_extra_questions']} more questions.",
             "practice_block": {
                 "duration_min": session_minutes,
                 "question_target": questions_target,

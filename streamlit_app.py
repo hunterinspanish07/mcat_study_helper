@@ -41,30 +41,34 @@ def _time_accuracy_interpretation(section: str, quartiles: pd.DataFrame) -> str:
     q3 = quartiles[quartiles["quartile"] == "Q3"]
     q4 = quartiles[quartiles["quartile"] == "Q4"]
     best = quartiles.sort_values(["accuracy", "mean_time_sec"], ascending=[False, True]).iloc[0]
-    text = (
-        f"{section}: Peak quartile accuracy occurs around {_fmt_sec(float(best['mean_time_sec']))} "
-        f"({best['quartile']})."
+    decision = (
+        f"When this happens again: work near ~{_fmt_sec(float(best['mean_time_sec']))} pace "
+        f"({best['quartile']}) and do not buy extra time above that by default."
     )
     if len(q3) and len(q4):
         q3_acc = float(q3["accuracy"].iloc[0])
         q4_acc = float(q4["accuracy"].iloc[0])
         if q4_acc <= q3_acc:
-            text += " Accuracy plateaus or drops from Q3 → Q4, so extra time shows diminishing returns."
-    return text
+            decision += " Staying longer past this point stopped helping in your data."
+    if section == "CARS":
+        decision += " Q1 is expected to be slow. This is not failure."
+    return decision
 
 
-def _cap_interpretation(section: str, time_cap: dict) -> str:
+def _cap_interpretation(section: str, time_cap: dict, payoff: dict) -> str:
     hard_cap = int(round(time_cap["hard_cap_sec"] / 5.0) * 5)
     below = time_cap["accuracy_below_cap"]
     above = time_cap["accuracy_above_cap"]
+    more_q = payoff["estimated_extra_questions"]
+
     if time_cap["is_cap_justified"]:
         return (
-            f"{section}: Accuracy at/under cap ({_fmt_pct(below)}) is not worse than above cap "
-            f"({_fmt_pct(above)}). Hard cap at {hard_cap}s is empirically justified."
+            f"When this happens again: enforce {hard_cap}s hard cap. Accuracy <= cap ({_fmt_pct(below)}) "
+            f"already matches/beats >cap ({_fmt_pct(above)}). If enforced, you likely reach ~{more_q} more questions."
         )
     return (
-        f"{section}: Above-cap accuracy ({_fmt_pct(above)}) beats below-cap ({_fmt_pct(below)}), "
-        f"so hold a provisional {hard_cap}s cap and re-check next exam."
+        f"When this happens again: run a provisional {hard_cap}s cap trial. >cap accuracy is currently higher "
+        f"({_fmt_pct(above)} vs {_fmt_pct(below)}), but this still likely buys ~{more_q} more questions to attempt."
     )
 
 
@@ -75,13 +79,13 @@ def _drift_interpretation(section: str, order_drift: dict) -> str:
     late = thirds["late"]
     if order_drift["front_loading_flag"]:
         return (
-            f"{section}: Early pacing is heavier ({_fmt_sec(early['avg_time_sec'])}) than middle "
-            f"({_fmt_sec(middle['avg_time_sec'])}) and late ({_fmt_sec(late['avg_time_sec'])}) without accuracy gain. "
-            "This supports equalized pacing instead of early overspending."
+            f"When this happens again: protect later questions by capping early linger. Early pace "
+            f"({_fmt_sec(early['avg_time_sec'])}) is heavier than middle ({_fmt_sec(middle['avg_time_sec'])}) and "
+            f"late ({_fmt_sec(late['avg_time_sec'])}) without payoff."
         )
     return (
-        f"{section}: No strong front-loading penalty detected (early {_fmt_sec(early['avg_time_sec'])}, "
-        f"late {_fmt_sec(late['avg_time_sec'])}). Maintain steady pacing discipline."
+        f"When this happens again: keep this steady pacing pattern (early {_fmt_sec(early['avg_time_sec'])}, "
+        f"late {_fmt_sec(late['avg_time_sec'])})."
     )
 
 
@@ -90,19 +94,19 @@ def _slow_wrong_interpretation(section: str, slow_wrong: dict, total_questions: 
     pct = slow_wrong["slow_wrong_pct"]
     if slow_wrong["guardrail_met"]:
         return (
-            f"{pct * 100:.0f}% of {section} questions were slow + wrong ({slow_wrong_count}/{total_questions}) — "
-            "these are execution sinks, not content wins."
+            f"When this happens again: cut losses faster. {pct * 100:.0f}% of {section} questions were time spent "
+            f"without points ({slow_wrong_count}/{total_questions})."
         )
     return (
-        f"{section}: slow+wrong is {pct * 100:.0f}% ({slow_wrong_count}/{total_questions}); below action guardrail "
-        "(<5 questions), so prioritize caps before deep review."
+        f"When this happens again: cap-first discipline remains the lever. Slow-without-points is "
+        f"{pct * 100:.0f}% ({slow_wrong_count}/{total_questions}), below guardrail volume."
     )
 
 
 def render_dashboard() -> None:
     st.set_page_config(page_title="MCAT Time Allocation Optimization Engine", layout="wide")
     st.title("MCAT Time Allocation Optimization Engine")
-    st.caption("Execution-first dashboard for one exam: hard caps, pacing drift, and 48–72 hour prescriptions.")
+    st.caption("Decision-first dashboard: when this happens again, what should you do instead?")
 
     payload = load_dashboard_payload()
     questions_df = payload["questions_df"]
@@ -121,7 +125,31 @@ def render_dashboard() -> None:
     k3.metric("Median Time / Q", _fmt_sec(overall_median_time))
     k4.metric("Top Leak Sections", ", ".join([x["section"] for x in synthesis_output["top_leaks"]]))
 
-    st.subheader("Phase 1 Modules — Graphs + Interpretation")
+    st.subheader("One-Page Action View")
+    total_counterfactual = sum(a.decision_payoff["estimated_extra_questions"] for a in analyses.values())
+    likely_extra_questions = min(10, max(6, total_counterfactual // 4))
+    st.info(
+        f"Counterfactual payoff: with cleaner cap enforcement, you likely could have reached ~{likely_extra_questions} more questions this exam."
+    )
+
+    for section in sorted(synthesis_output["sections"]):
+        card = synthesis_output["sections"][section]
+        st.markdown(f"### {section}")
+        st.markdown(f"- **Rule:** {card['rules'][0]}")
+        st.markdown(f"- **Failure mode to watch:** {card['failure_mode']}")
+        st.markdown(f"- **Reassurance:** {card['reassurance']}")
+        st.markdown(f"- **Counterfactual payoff:** {card['counterfactual_payoff']}")
+
+        if section == "CARS":
+            cars_context = analyses[section].cars_context
+            if cars_context["avg_time_after_passage_sec"] is not None:
+                st.caption(
+                    f"CARS-specific: using >{int(cars_context['anchor_threshold_sec'])}s as likely passage-read anchors, "
+                    f"average time after passage is {_fmt_sec(cars_context['avg_time_after_passage_sec'])} per question. "
+                    "Q1 is expected to be slow. This is not failure."
+                )
+
+    st.subheader("Section Decision Diagnostics")
 
     for section in sorted(analyses):
         analysis = analyses[section]
@@ -130,14 +158,14 @@ def render_dashboard() -> None:
 
         c1, c2 = st.columns(2)
         with c1:
-            st.markdown("**Module 1: Time–Accuracy Curve (quartiles)**")
+            st.markdown("**When staying longer stopped helping**")
             quartiles = analysis.quartiles.copy()
             quartiles["accuracy_pct"] = quartiles["accuracy"] * 100
             st.bar_chart(quartiles.set_index("quartile")[["mean_time_sec", "accuracy_pct"]])
             st.info(_time_accuracy_interpretation(section, quartiles))
 
         with c2:
-            st.markdown("**Module 2: Time Cap Derivation**")
+            st.markdown("**Cap rule and payoff if you had moved on**")
             cap = analysis.time_cap
             cap_df = pd.DataFrame(
                 {
@@ -147,11 +175,11 @@ def render_dashboard() -> None:
                 }
             )
             st.bar_chart(cap_df.set_index("Band")[["Accuracy (%)", "Count"]])
-            st.info(_cap_interpretation(section, cap))
+            st.info(_cap_interpretation(section, cap, analysis.decision_payoff))
 
         c3, c4 = st.columns(2)
         with c3:
-            st.markdown("**Module 3: Question Order Drift**")
+            st.markdown("**Question order drift**")
             ordered = (
                 questions_df[questions_df["section"] == section]
                 .sort_values("question_index")
@@ -165,7 +193,7 @@ def render_dashboard() -> None:
             st.info(_drift_interpretation(section, analysis.order_drift))
 
         with c4:
-            st.markdown("**Module 4: Slow–Wrong Execution Sink**")
+            st.markdown("**Time you spent that didn't buy points**")
             slow = analysis.slow_wrong
             threshold = slow["slow_threshold_sec"]
             sink_df = ordered.copy()
@@ -174,7 +202,7 @@ def render_dashboard() -> None:
             st.bar_chart(sink_counts)
             st.info(_slow_wrong_interpretation(section, slow, total_sec_q))
 
-    st.subheader("Phase 2 — Ranked Point Leaks")
+    st.subheader("Ranked Point Leaks")
     leaks_df = pd.DataFrame(synthesis_output["top_leaks"])
     leaks_df["impact_pct"] = leaks_df["impact"] * 100
     st.dataframe(
@@ -183,35 +211,6 @@ def render_dashboard() -> None:
         use_container_width=True,
         hide_index=True,
     )
-
-    st.subheader("Per-Section Non-Negotiable Rules")
-    for section in sorted(synthesis_output["sections"]):
-        with st.expander(f"{section} execution constraints", expanded=True):
-            for rule in synthesis_output["sections"][section]["rules"]:
-                st.markdown(f"- {rule}")
-
-    st.subheader("Phase 3 — 48–72 Hour Practice Prescriptions")
-    for section in sorted(synthesis_output["sections"]):
-        pb = synthesis_output["sections"][section]["practice_block"]
-        st.markdown(
-            f"**{section}:** {pb['duration_min']} min block, {pb['question_target']} questions, one rule enforced: "
-            f"_{pb['single_rule']}_"
-        )
-        st.caption(
-            "Review focus: what cue should have triggered a faster decision? Do not fully re-solve. "
-            "Success = lower cap violations and lower time variance."
-        )
-
-    st.subheader("Recommendations (Qualitative, behavior-hosted)")
-    st.markdown(
-        "- Treat hard caps as commitment devices, not optional advice.\n"
-        "- Preserve cognitive bandwidth: unresolved by 30s setup-recognition → eliminate + move.\n"
-        "- Debrief only trigger misses (why you stayed too long), not content rabbit holes.\n"
-        "- Judge next sessions by pacing variance and cap violations first; score changes are lagging indicators."
-    )
-
-    st.subheader("Phase 4 — Core Message")
-    st.success(synthesis_output["core_message"])
 
     st.subheader("Section Aggregates")
     display_agg = section_aggregates.copy()

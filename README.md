@@ -24,7 +24,7 @@ The dashboard is not a content-review tool. It answers execution questions:
 - Where does extra time stop improving accuracy?
 - Which sections should have stricter hard caps?
 - Are you front-loading time early in a section?
-- How many questions are "slow + wrong" (high time, no payoff)?
+- How much time was spent with no scoring payoff, and what should you do instead next time?
 - What are the highest-impact rules for the next 48–72 hours?
 
 ---
@@ -68,7 +68,7 @@ You will see four KPIs:
 
 Each section (`BB`, `CARS`, `CP`, `PSB`) gets the same four modules.
 
-#### Module 1: Time–Accuracy Curve (quartiles)
+#### Module 1: When staying longer stopped helping
 
 Chart contents:
 - Quartiles `Q1` (fastest) through `Q4` (slowest)
@@ -108,7 +108,7 @@ Interpretation:
 Action bias:
 - Aim for steadier pacing when early overspending appears.
 
-#### Module 4: Slow–Wrong Execution Sink
+#### Module 4: Time you spent that didn't buy points
 
 Chart contents:
 - Count of `Slow+Wrong` vs `Other`
