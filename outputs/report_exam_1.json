@@ -1,0 +1,401 @@
+{
+  "section_aggregates": [
+    {
+      "section": "BB",
+      "total_questions": 59,
+      "mean_time_sec": 95.54237288135593,
+      "median_time_sec": 62.0,
+      "accuracy": 0.3050847457627119
+    },
+    {
+      "section": "CARS",
+      "total_questions": 53,
+      "mean_time_sec": 92.60377358490567,
+      "median_time_sec": 54.0,
+      "accuracy": 0.32075471698113206
+    },
+    {
+      "section": "CP",
+      "total_questions": 59,
+      "mean_time_sec": 87.7457627118644,
+      "median_time_sec": 49.0,
+      "accuracy": 0.3559322033898305
+    },
+    {
+      "section": "PSB",
+      "total_questions": 59,
+      "mean_time_sec": 95.05084745762711,
+      "median_time_sec": 62.0,
+      "accuracy": 0.3898305084745763
+    }
+  ],
+  "analysis": {
+    "BB": {
+      "section": "BB",
+      "quartiles": [
+        {
+          "quartile": "Q1",
+          "questions": 16,
+          "mean_time_sec": 16.125,
+          "accuracy": 0.375
+        },
+        {
+          "quartile": "Q2",
+          "questions": 14,
+          "mean_time_sec": 51.285714285714285,
+          "accuracy": 0.21428571428571427
+        },
+        {
+          "quartile": "Q3",
+          "questions": 14,
+          "mean_time_sec": 74.28571428571429,
+          "accuracy": 0.35714285714285715
+        },
+        {
+          "quartile": "Q4",
+          "questions": 15,
+          "mean_time_sec": 241.4,
+          "accuracy": 0.26666666666666666
+        }
+      ],
+      "time_cap": {
+        "median_time_sec": 62.0,
+        "hard_cap_sec": 74.39999999999999,
+        "accuracy_below_cap": 0.3333333333333333,
+        "accuracy_above_cap": 0.25,
+        "is_cap_justified": true,
+        "below_cap_count": 39,
+        "above_cap_count": 20
+      },
+      "order_drift": {
+        "rolling_window": 8,
+        "thirds": {
+          "early": {
+            "avg_time_sec": 99.63157894736842,
+            "accuracy": 0.3157894736842105
+          },
+          "middle": {
+            "avg_time_sec": 140.2,
+            "accuracy": 0.25
+          },
+          "late": {
+            "avg_time_sec": 47.0,
+            "accuracy": 0.35
+          }
+        },
+        "early_minus_late_time_sec": 52.631578947368425,
+        "early_minus_late_accuracy": -0.03421052631578947,
+        "front_loading_flag": false
+      },
+      "slow_wrong": {
+        "slow_threshold_sec": 82.5,
+        "slow_wrong_count": 11,
+        "slow_wrong_pct": 0.1864406779661017,
+        "guardrail_met": true
+      }
+    },
+    "CARS": {
+      "section": "CARS",
+      "quartiles": [
+        {
+          "quartile": "Q1",
+          "questions": 15,
+          "mean_time_sec": 2.2666666666666666,
+          "accuracy": 0.26666666666666666
+        },
+        {
+          "quartile": "Q2",
+          "questions": 12,
+          "mean_time_sec": 37.083333333333336,
+          "accuracy": 0.3333333333333333
+        },
+        {
+          "quartile": "Q3",
+          "questions": 13,
+          "mean_time_sec": 71.6923076923077,
+          "accuracy": 0.23076923076923078
+        },
+        {
+          "quartile": "Q4",
+          "questions": 13,
+          "mean_time_sec": 269.0,
+          "accuracy": 0.46153846153846156
+        }
+      ],
+      "time_cap": {
+        "median_time_sec": 54.0,
+        "hard_cap_sec": 64.8,
+        "accuracy_below_cap": 0.29411764705882354,
+        "accuracy_above_cap": 0.3684210526315789,
+        "is_cap_justified": false,
+        "below_cap_count": 34,
+        "above_cap_count": 19
+      },
+      "order_drift": {
+        "rolling_window": 8,
+        "thirds": {
+          "early": {
+            "avg_time_sec": 132.64705882352942,
+            "accuracy": 0.4117647058823529
+          },
+          "middle": {
+            "avg_time_sec": 133.0,
+            "accuracy": 0.2777777777777778
+          },
+          "late": {
+            "avg_time_sec": 14.38888888888889,
+            "accuracy": 0.2777777777777778
+          }
+        },
+        "early_minus_late_time_sec": 118.25816993464053,
+        "early_minus_late_accuracy": 0.13398692810457513,
+        "front_loading_flag": false
+      },
+      "slow_wrong": {
+        "slow_threshold_sec": 91.0,
+        "slow_wrong_count": 7,
+        "slow_wrong_pct": 0.1320754716981132,
+        "guardrail_met": true
+      }
+    },
+    "CP": {
+      "section": "CP",
+      "quartiles": [
+        {
+          "quartile": "Q1",
+          "questions": 15,
+          "mean_time_sec": 5.333333333333333,
+          "accuracy": 0.2
+        },
+        {
+          "quartile": "Q2",
+          "questions": 16,
+          "mean_time_sec": 37.75,
+          "accuracy": 0.3125
+        },
+        {
+          "quartile": "Q3",
+          "questions": 13,
+          "mean_time_sec": 87.46153846153847,
+          "accuracy": 0.46153846153846156
+        },
+        {
+          "quartile": "Q4",
+          "questions": 15,
+          "mean_time_sec": 223.73333333333332,
+          "accuracy": 0.4666666666666667
+        }
+      ],
+      "time_cap": {
+        "median_time_sec": 49.0,
+        "hard_cap_sec": 58.8,
+        "accuracy_below_cap": 0.28125,
+        "accuracy_above_cap": 0.4444444444444444,
+        "is_cap_justified": false,
+        "below_cap_count": 32,
+        "above_cap_count": 27
+      },
+      "order_drift": {
+        "rolling_window": 8,
+        "thirds": {
+          "early": {
+            "avg_time_sec": 142.1578947368421,
+            "accuracy": 0.47368421052631576
+          },
+          "middle": {
+            "avg_time_sec": 104.5,
+            "accuracy": 0.3
+          },
+          "late": {
+            "avg_time_sec": 19.3,
+            "accuracy": 0.3
+          }
+        },
+        "early_minus_late_time_sec": 122.85789473684211,
+        "early_minus_late_accuracy": 0.17368421052631577,
+        "front_loading_flag": false
+      },
+      "slow_wrong": {
+        "slow_threshold_sec": 125.0,
+        "slow_wrong_count": 8,
+        "slow_wrong_pct": 0.13559322033898305,
+        "guardrail_met": true
+      }
+    },
+    "PSB": {
+      "section": "PSB",
+      "quartiles": [
+        {
+          "quartile": "Q1",
+          "questions": 15,
+          "mean_time_sec": 10.733333333333333,
+          "accuracy": 0.4666666666666667
+        },
+        {
+          "quartile": "Q2",
+          "questions": 16,
+          "mean_time_sec": 47.75,
+          "accuracy": 0.375
+        },
+        {
+          "quartile": "Q3",
+          "questions": 13,
+          "mean_time_sec": 81.0,
+          "accuracy": 0.38461538461538464
+        },
+        {
+          "quartile": "Q4",
+          "questions": 15,
+          "mean_time_sec": 242.0,
+          "accuracy": 0.3333333333333333
+        }
+      ],
+      "time_cap": {
+        "median_time_sec": 62.0,
+        "hard_cap_sec": 74.39999999999999,
+        "accuracy_below_cap": 0.4,
+        "accuracy_above_cap": 0.375,
+        "is_cap_justified": true,
+        "below_cap_count": 35,
+        "above_cap_count": 24
+      },
+      "order_drift": {
+        "rolling_window": 8,
+        "thirds": {
+          "early": {
+            "avg_time_sec": 115.6842105263158,
+            "accuracy": 0.3157894736842105
+          },
+          "middle": {
+            "avg_time_sec": 125.15,
+            "accuracy": 0.45
+          },
+          "late": {
+            "avg_time_sec": 45.35,
+            "accuracy": 0.4
+          }
+        },
+        "early_minus_late_time_sec": 70.33421052631579,
+        "early_minus_late_accuracy": -0.08421052631578951,
+        "front_loading_flag": false
+      },
+      "slow_wrong": {
+        "slow_threshold_sec": 110.0,
+        "slow_wrong_count": 10,
+        "slow_wrong_pct": 0.1694915254237288,
+        "guardrail_met": true
+      }
+    }
+  },
+  "synthesis": {
+    "sections": {
+      "BB": {
+        "findings": [
+          "BB: peak quartile accuracy is 37.5% at ~16s (Q1).",
+          "BB: accuracy <= cap is 33.3% vs > cap 25.0%.",
+          "BB: accuracy plateaus/drops from Q3 to Q4, indicating diminishing returns."
+        ],
+        "rules": [
+          "Hard stop at 75s in BB. If unresolved, eliminate and guess immediately.",
+          "BB: treat slow+wrong items as execution sinks; cap and move on when setup is unclear by 30s."
+        ],
+        "hard_cap_sec": 75,
+        "practice_block": {
+          "duration_min": 35,
+          "question_target": 28,
+          "single_rule": "Hard stop at 75s in BB. If unresolved, eliminate and guess immediately.",
+          "review_rule": "Review only the missed trigger for earlier decision; do not fully re-solve.",
+          "success_metrics": [
+            "Cap-violation rate decreases",
+            "Time variance narrows"
+          ]
+        }
+      },
+      "CARS": {
+        "findings": [
+          "CARS: peak quartile accuracy is 46.2% at ~269s (Q4).",
+          "CARS: accuracy <= cap is 29.4% vs > cap 36.8%."
+        ],
+        "rules": [
+          "Provisional cap at 65s in CARS; monitor next session and tighten only if >cap accuracy stays flat.",
+          "CARS: treat slow+wrong items as execution sinks; cap and move on when setup is unclear by 30s."
+        ],
+        "hard_cap_sec": 65,
+        "practice_block": {
+          "duration_min": 35,
+          "question_target": 32,
+          "single_rule": "Provisional cap at 65s in CARS; monitor next session and tighten only if >cap accuracy stays flat.",
+          "review_rule": "Review only the missed trigger for earlier decision; do not fully re-solve.",
+          "success_metrics": [
+            "Cap-violation rate decreases",
+            "Time variance narrows"
+          ]
+        }
+      },
+      "CP": {
+        "findings": [
+          "CP: peak quartile accuracy is 46.7% at ~224s (Q4).",
+          "CP: accuracy <= cap is 28.1% vs > cap 44.4%."
+        ],
+        "rules": [
+          "Provisional cap at 60s in CP; monitor next session and tighten only if >cap accuracy stays flat.",
+          "CP: treat slow+wrong items as execution sinks; cap and move on when setup is unclear by 30s."
+        ],
+        "hard_cap_sec": 60,
+        "practice_block": {
+          "duration_min": 35,
+          "question_target": 35,
+          "single_rule": "Provisional cap at 60s in CP; monitor next session and tighten only if >cap accuracy stays flat.",
+          "review_rule": "Review only the missed trigger for earlier decision; do not fully re-solve.",
+          "success_metrics": [
+            "Cap-violation rate decreases",
+            "Time variance narrows"
+          ]
+        }
+      },
+      "PSB": {
+        "findings": [
+          "PSB: peak quartile accuracy is 46.7% at ~11s (Q1).",
+          "PSB: accuracy <= cap is 40.0% vs > cap 37.5%.",
+          "PSB: accuracy plateaus/drops from Q3 to Q4, indicating diminishing returns."
+        ],
+        "rules": [
+          "Hard stop at 75s in PSB. If unresolved, eliminate and guess immediately.",
+          "PSB: treat slow+wrong items as execution sinks; cap and move on when setup is unclear by 30s."
+        ],
+        "hard_cap_sec": 75,
+        "practice_block": {
+          "duration_min": 35,
+          "question_target": 28,
+          "single_rule": "Hard stop at 75s in PSB. If unresolved, eliminate and guess immediately.",
+          "review_rule": "Review only the missed trigger for earlier decision; do not fully re-solve.",
+          "success_metrics": [
+            "Cap-violation rate decreases",
+            "Time variance narrows"
+          ]
+        }
+      }
+    },
+    "top_leaks": [
+      {
+        "section": "PSB",
+        "impact": 0.4067796610169492,
+        "cap_justified": true,
+        "slow_wrong_guardrail": true
+      },
+      {
+        "section": "BB",
+        "impact": 0.3389830508474576,
+        "cap_justified": true,
+        "slow_wrong_guardrail": true
+      },
+      {
+        "section": "CP",
+        "impact": 0.13559322033898305,
+        "cap_justified": false,
+        "slow_wrong_guardrail": true
+      }
+    ],
+    "core_message": "Spending more time did not reliably increase accuracy. Faster decisions are a rational reallocation, not blind guessing."
+  }
+}
